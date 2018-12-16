@@ -1,3 +1,9 @@
+mx-repo-list (18.12.2) mx; urgency=medium
+
+  * new mirrors: India, Slovakia
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 16 Dec 2018 09:40:23 -0500
+
 mx-repo-list (18.12.1) mx; urgency=medium
 
   * new mirror in China

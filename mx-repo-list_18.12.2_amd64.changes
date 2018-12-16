@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 16 Dec 2018 09:40:23 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 18.12.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (18.12.2) mx; urgency=medium
+ .
+   * new mirrors: India, Slovakia
+Checksums-Sha1:
+ 1003f760495c9e1676cb1e96a46c4c792193696d 1143 mx-repo-list_18.12.2.dsc
+ 53c2a77902a025dfe6a7106b0bf137e012ac06b6 2648 mx-repo-list_18.12.2.tar.xz
+ e797dbe8fd9b315f801cdb52f22875f2285f8eca 3138 mx-repo-list_18.12.2_all.deb
+ 4f5d7132811e9647f6758e41f28b274d09660938 5518 mx-repo-list_18.12.2_amd64.buildinfo
+Checksums-Sha256:
+ e05f72f02e1f32253ece2b4361ce89231f7de787bc02d9f0a27cc9900186d4a4 1143 mx-repo-list_18.12.2.dsc
+ 30711499d683268de95520ceb7949063b2ea52a51d21886f9c40a2356e42fbf3 2648 mx-repo-list_18.12.2.tar.xz
+ 52b397164f0cac413b3c7d7ff6e0d7f6e403dbadb87e4ffff337fc9da4194712 3138 mx-repo-list_18.12.2_all.deb
+ ed5e1f65482c9bfc8027415cbb67126e08207efc6d61328dd331e5a6c21bc00a 5518 mx-repo-list_18.12.2_amd64.buildinfo
+Files:
+ a898749efd6f45ab4935a4f290b38a98 1143 admin optional mx-repo-list_18.12.2.dsc
+ 791764551637b3842cb3192659abe604 2648 admin optional mx-repo-list_18.12.2.tar.xz
+ 6d8b486a304eb616d6e765f3e2cea1bc 3138 admin optional mx-repo-list_18.12.2_all.deb
+ 1114f0fb4def0ed7795fba795010945e 5518 admin optional mx-repo-list_18.12.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwWY/ETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBduCACVnMF8oap3sPcHqMl3GgsfX2t82q3A
+QYwOcZLi/A0mOjKI3yifkmbfVAAbV2sNquoWxrIPZlsGXRwniV/sp2DHDfxv5aKU
+thgwhuPKL947DxYbPTVNIE+pKJlMti5qXJ53uEOEXkXBqXc6TcJEEDkgi6ZpiCho
+P4HetCxug/6cMt0PpltTiTmjSMPFWn72lOD3Yr6BLM2BPwcdzuKUvM5wD2MqOCAc
+JMIkqEEpwxsEPidyMPt08Ju0aoDLbgwJe3HFaw95dEgBL+lbzUatVkqnAHv8Vf15
+aLaVMZkQRW2Pq1Wv/pTdRRvvGm4srP9ycM6TCEhCBib3KYANfhjwhbKf
+=c8/9
+-----END PGP SIGNATURE-----
