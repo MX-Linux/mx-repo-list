@@ -1,3 +1,9 @@
+mx-repo-list (18.12.1) mx; urgency=medium
+
+  * new mirror in China
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 15 Dec 2018 23:12:50 -0500
+
 mx-repo-list (18.12) mx; urgency=medium
 
   * initial setup
