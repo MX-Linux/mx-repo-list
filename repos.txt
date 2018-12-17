@@ -60,6 +60,7 @@ United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Freemont CA - https://mirrors.xtom.com/mx-packages
 United States, Los Angeles CA - http://la.mxrepo.com
 United States, MD - http://mirror.umd.edu/mxlinux
+United States, Princeton - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
