@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 17 Dec 2018 08:37:56 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 18.12.3
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (18.12.3) mx; urgency=medium
+ .
+   * new mirrors: Princeton, Bulgaria
+Checksums-Sha1:
+ 0c8d0c5a6e2f5f3a810106fda4a86d14afc3bf40 1143 mx-repo-list_18.12.3.dsc
+ 6bbb27d89d3768434b204b02255339182a8cb3c2 2704 mx-repo-list_18.12.3.tar.xz
+ 50a2499dd12461e228006c2336e5085b415e8b8f 3196 mx-repo-list_18.12.3_all.deb
+ 5bcbdc54dede02c65e46b25cef9af3be8c3e82dd 5518 mx-repo-list_18.12.3_amd64.buildinfo
+Checksums-Sha256:
+ bee8540ee85f8d236c0b4662237da48782821fff3e36b369b2275fcb2f0f4092 1143 mx-repo-list_18.12.3.dsc
+ d11cefa5d0041739bdabd0046f54027d9bf3f7d2d7aa4bc269c774ccaa8c0bb0 2704 mx-repo-list_18.12.3.tar.xz
+ 1fffa3d458f4da1c5c56ad9afa6ab6db853635d8621a83410a3f25a1d894543c 3196 mx-repo-list_18.12.3_all.deb
+ c76e407d1f0e3d34b155a61043e6b913c9c86e449ca85563b22895d4619afbac 5518 mx-repo-list_18.12.3_amd64.buildinfo
+Files:
+ 7fab96f5e90b9ff1c487ab176bc12fa5 1143 admin optional mx-repo-list_18.12.3.dsc
+ 2578cc6f2628c71ec48c340c6013c7fb 2704 admin optional mx-repo-list_18.12.3.tar.xz
+ 80de95cc78587685511d19185f0701ec 3196 admin optional mx-repo-list_18.12.3_all.deb
+ 9e612ec362aa7393f4f48a578373c611 5518 admin optional mx-repo-list_18.12.3_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwXps4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLtHB/9K5EDHUsHSOeztPX6wuoi5wl26AVMr
+77+5JL8lhUPXh5BB450VOWBinSPL/N1Xj4kPrmzljZfe8EwLzTU3WTZwJYUSRJHh
+U00fZ9RdN7OTjSehWDJ4nHPbIlr/bJ7zq9RQUtX+v04xMZM7pgFHzFLnonEIaAOl
+RvyMfH4hN8VBMLe9RFQ1qhzSftrzUF/l4QjkF0HgBftq5Miu37PMyJml91ryo9+e
+aC3csm2iZVOjrWpjcCfAQOUiTFdqUQRnWPUtZjfn9ZQsQG4cJFJLAQtvK768Wjgu
+VFt5Wttbdfv4o7/Ug56PE/OuZJ0GKwq1HGXZbOMI0A608ugKOyFWZ1dk
+=CbMz
+-----END PGP SIGNATURE-----
