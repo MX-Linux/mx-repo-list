@@ -28,6 +28,7 @@ Hong Kong - https://mirror-hk.koddos.net/mxlinux
 Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
 Hungary - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
+India, North India - https://mx.mirrors.estointernet.in/packages
 Indonesia - http://kartolo.sby.datautama.net.id/mx-packages
 Italy - http://it.mxrepo.com
 Japan - https://mirrors.cat.net/mx-packages
