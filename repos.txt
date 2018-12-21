@@ -48,6 +48,7 @@ Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Russia - http://mirror.truenetwork.ru/mxlinux
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Spain - http://ftp.cica.es/mirrors/Linux/MX-Packages
+Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 Singapore - https://mirror.0x.sg/mx-workspace
