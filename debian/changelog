@@ -1,3 +1,9 @@
+mx-repo-list (18.12.5) mx; urgency=medium
+
+  * update mirror list
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 21 Dec 2018 14:32:17 -0500
+
 mx-repo-list (18.12.4) mx; urgency=medium
 
   * new mirrors: Spain, Georgia, India

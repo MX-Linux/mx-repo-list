@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 21 Dec 2018 14:32:17 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 18.12.5
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (18.12.5) mx; urgency=medium
+ .
+   * update mirror list
+Checksums-Sha1:
+ 253d034e3825ad9be0519f41979eea5e825b688d 1143 mx-repo-list_18.12.5.dsc
+ a1dfa3c6b2f5b8084b53faf164109fed6ad4bdb0 2932 mx-repo-list_18.12.5.tar.xz
+ f42b437a09e9b58239a98f464abd3e9df354030f 3444 mx-repo-list_18.12.5_all.deb
+ 390f5cf3cf7d9afc148a554cea942aaf43d7ec64 5520 mx-repo-list_18.12.5_amd64.buildinfo
+Checksums-Sha256:
+ 5f59a6674782408e4316ef92374d92996bd670844fcd8eac3f2da395e0b57bb4 1143 mx-repo-list_18.12.5.dsc
+ aa82fb9a8a804f2b7463d6374b1673ec00ce3f3f311c74260c38220456bc7427 2932 mx-repo-list_18.12.5.tar.xz
+ d953e32b53ec22fc14938bf05ae8c53d9ac31c3a37d06cb08c00908a7544d7b3 3444 mx-repo-list_18.12.5_all.deb
+ ee4b8a8b5f75777f6aacf602f2246f21cf48d6353eb3c52fa4a3dd0ecccffb62 5520 mx-repo-list_18.12.5_amd64.buildinfo
+Files:
+ 4d811c4ab3cd37a916ebe2526056cd30 1143 admin optional mx-repo-list_18.12.5.dsc
+ d5e434a910b795a745a71531dfb63fef 2932 admin optional mx-repo-list_18.12.5.tar.xz
+ fda0a91e73fd3e48c53849f44ce8d974 3444 admin optional mx-repo-list_18.12.5_all.deb
+ 28d0730132ab3e9a78d1e690db1a24a1 5520 admin optional mx-repo-list_18.12.5_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwdP9MTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNhCCADUoBC4dMHnLZmPJ57FAB3pSfD7QvI9
+ikDHZZl/r6zCBdSM+xx8rp67Ck5SUcl6G5W+j5fnxhM7y5H7N/f+Z+HFwjZrm+v3
+kadEVdB4pmUtLOHncmNyNWlPOFsMe2oH+sPt9sxtfTqgoehH/NQou4PwIgh5qVqj
+iqDsC11rCcqxx0wapAKgbtQ/surOIwjJjuHOJf61zrKS2DqyFZOA29DhvM3Sp6mZ
+ZgIqIkZwyiPq2+7U6sISH3dQ+YbUznGt7DlyhZ7AB+epvpM9MxvdM8b/2kdAqe+5
+2UavNyTtp6WiSo6LKMGrfFOlTU5VOANX8r3/pI9THo9qSQUoaTDxLr5p
+=/fOA
+-----END PGP SIGNATURE-----
