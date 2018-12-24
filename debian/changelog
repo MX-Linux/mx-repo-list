@@ -1,3 +1,9 @@
+mx-repo-list (18.12.6) mx; urgency=medium
+
+  * new mirror: Pakistan
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 24 Dec 2018 00:25:01 -0500
+
 mx-repo-list (18.12.5) mx; urgency=medium
 
   * update mirror list
