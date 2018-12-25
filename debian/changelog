@@ -1,6 +1,7 @@
 mx-repo-list (18.12.7) mx; urgency=medium
 
-  * new mirror: Moscow
+  * new mirror: Moscow, Russia
+  * new mirror: Yamagata, Japan
 
  -- Adrian <adrian@mxlinux.org>  Tue, 25 Dec 2018 10:49:55 -0500
 

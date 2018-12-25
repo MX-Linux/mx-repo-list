@@ -16,31 +16,32 @@ Description:
 Changes:
  mx-repo-list (18.12.7) mx; urgency=medium
  .
-   * new mirror: Moscow
+   * new mirror: Moscow, Russia
+   * new mirror: Yamagata, Japan
 Checksums-Sha1:
- dcce0a11c6dfbb155f39c54ba469af7d26e9da25 1143 mx-repo-list_18.12.7.dsc
- 32d1077585e0bff7afe86ba40f957c6493e6e97b 3044 mx-repo-list_18.12.7.tar.xz
- 8e0180908310b621c0218b6fdc667d076a03e8c0 3552 mx-repo-list_18.12.7_all.deb
- 2ed67a7a7e3572b9b8427a33ad04cae661d4b745 5518 mx-repo-list_18.12.7_amd64.buildinfo
+ e510bf77b6eb60191497195dec0e7498fee4f33a 1143 mx-repo-list_18.12.7.dsc
+ 806595f1cd56ba9fb8ab2f13493576086db5ae37 3076 mx-repo-list_18.12.7.tar.xz
+ 02aa24449d75fb5426e15c76f60742b369b78d55 3602 mx-repo-list_18.12.7_all.deb
+ 19a81b20928cd6decb76280e1aa0daf213b7fcf6 5518 mx-repo-list_18.12.7_amd64.buildinfo
 Checksums-Sha256:
- 162eacb8b0797f58e4c66b46d8d0ab487392169b84acd51fe5d9032c932e8a59 1143 mx-repo-list_18.12.7.dsc
- 3a3ece8cdf08cc94bdebc549c13ed1c2df36564322d97bc630a00868750fcae6 3044 mx-repo-list_18.12.7.tar.xz
- 6d22cb60f48646e13cf8919acae050241da82c56ec2471740ecce9872a45de6f 3552 mx-repo-list_18.12.7_all.deb
- b3eb0c1d4ec68759ebb892f918b47e0a34817d6573cb5bfd07d08480df23bbb7 5518 mx-repo-list_18.12.7_amd64.buildinfo
+ a73ba03ac97252d87025ad79dbfe5d778655ac4b02f520ed941483f1b385436e 1143 mx-repo-list_18.12.7.dsc
+ 0e07b0a842051f1c1d2babbb502b0aea9022e45110b1ba3e9f74575242eb15c7 3076 mx-repo-list_18.12.7.tar.xz
+ 32993100f90f71c6ca06c5143796cac43a63c68a58fe780f83a0ef1583ef704f 3602 mx-repo-list_18.12.7_all.deb
+ 5163a9b16fe98be412dbae4ce2ad098ea55c856f2e6627a14f40c55a0e15290f 5518 mx-repo-list_18.12.7_amd64.buildinfo
 Files:
- 2428cb5584282aa4c2d3a1add28a3132 1143 admin optional mx-repo-list_18.12.7.dsc
- 86ebc41f6960d1ab85d91bdd4bc7b499 3044 admin optional mx-repo-list_18.12.7.tar.xz
- 6a07c055b29199a326ee6ba9496ad3ce 3552 admin optional mx-repo-list_18.12.7_all.deb
- 30b83f5952b41fba2150199460140d45 5518 admin optional mx-repo-list_18.12.7_amd64.buildinfo
+ 375e5b1598169a1d8c155a6aba98b767 1143 admin optional mx-repo-list_18.12.7.dsc
+ 280236657de11b19ba862125c42a0f0d 3076 admin optional mx-repo-list_18.12.7.tar.xz
+ 246d083fdbd86086c8af7ddc67ed8acd 3602 admin optional mx-repo-list_18.12.7_all.deb
+ 0e27c0d9678fb6f7bfd2030143134dc8 5518 admin optional mx-repo-list_18.12.7_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwiUbsTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNK2B/9xqtLrBDyLZskC3tdkdolT4Q3b6CzN
-Q4txQoYUl5cLcVhm76dBjZ6TijfCtgxpHKcHmS1ZIl5Ur4/M2YbAMU7g0Mbi37AF
-lgsfMt98CTDp32O3Nmz24OaTSN9Y4CYEZWunQTOIZ2+X0uvBCPNT9P6JqvNFWNXA
-QQwAyAoQ+H1zeGBU6sVoRZdxmw62biqLGXp4nw2irMj22UwYdSgiwm7SFsrBl/Lo
-yP9yI93FywL8A7kueFzSYhdRQuB9TGjjccfB7EZiUAbnDK/rDF9y5WZIAYwNU3Y5
-QjrL2NWuC5m3HTFIayD0F8/NBKH71Jzn58xw8SvRwszfWoO/iv6Cd1eV
-=yZQG
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwiUrsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGPrCACmcK6z7yjoO5IcWzE4BDPZyGVE9j/h
+HRWxll2jGhNWRVUnVAbOIc0Ekbu+dJjCPWcj4gGdGKQVyhFtq2L801mayCkN+AUW
+9k3dP8nDTMVc8BQdp1h/V2xDWz7TbjVVqtXfYVajtzucb+7tXJzsm5erN7tBRnvl
+0kZYWXXUIX300rZ9/HiBAjzTfw2s5x8w83CnOrmCuPuCX3byymcTKTcIvxB/IfFY
+/knrSvKHF8P7Qb587y/pPVGdtvsulX8Nennacwou8ulCIrO3P/tChNWESjpkoGV7
+1ZEV/DPZFqvG3CI+8QSnrfkKHCxGEhLza7pHMLd55rBDtQs1b/JZ6hNG
+=36cJ
 -----END PGP SIGNATURE-----
