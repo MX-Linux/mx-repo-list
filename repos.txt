@@ -46,7 +46,8 @@ New Zealand - http://mx.debian.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines - https://mirror.pregi.net/mx-linux-packages
 Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
-Russia - http://mirror.truenetwork.ru/mxlinux
+Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
+Russia, Moscow - https://mirror.yandex.ru/mirrors/MX-Linux/MX-Packages
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
@@ -67,7 +68,7 @@ United States, Los Angeles CA - http://la.mxrepo.com
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
-United States, Seattle - https://mirrors.metapeer.com/mxlinux
+United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
 United States, UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
