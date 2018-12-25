@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Tue, 25 Dec 2018 10:49:55 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 18.12.7
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (18.12.7) mx; urgency=medium
+ .
+   * new mirror: Moscow
+Checksums-Sha1:
+ dcce0a11c6dfbb155f39c54ba469af7d26e9da25 1143 mx-repo-list_18.12.7.dsc
+ 32d1077585e0bff7afe86ba40f957c6493e6e97b 3044 mx-repo-list_18.12.7.tar.xz
+ 8e0180908310b621c0218b6fdc667d076a03e8c0 3552 mx-repo-list_18.12.7_all.deb
+ 2ed67a7a7e3572b9b8427a33ad04cae661d4b745 5518 mx-repo-list_18.12.7_amd64.buildinfo
+Checksums-Sha256:
+ 162eacb8b0797f58e4c66b46d8d0ab487392169b84acd51fe5d9032c932e8a59 1143 mx-repo-list_18.12.7.dsc
+ 3a3ece8cdf08cc94bdebc549c13ed1c2df36564322d97bc630a00868750fcae6 3044 mx-repo-list_18.12.7.tar.xz
+ 6d22cb60f48646e13cf8919acae050241da82c56ec2471740ecce9872a45de6f 3552 mx-repo-list_18.12.7_all.deb
+ b3eb0c1d4ec68759ebb892f918b47e0a34817d6573cb5bfd07d08480df23bbb7 5518 mx-repo-list_18.12.7_amd64.buildinfo
+Files:
+ 2428cb5584282aa4c2d3a1add28a3132 1143 admin optional mx-repo-list_18.12.7.dsc
+ 86ebc41f6960d1ab85d91bdd4bc7b499 3044 admin optional mx-repo-list_18.12.7.tar.xz
+ 6a07c055b29199a326ee6ba9496ad3ce 3552 admin optional mx-repo-list_18.12.7_all.deb
+ 30b83f5952b41fba2150199460140d45 5518 admin optional mx-repo-list_18.12.7_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwiUbsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNK2B/9xqtLrBDyLZskC3tdkdolT4Q3b6CzN
+Q4txQoYUl5cLcVhm76dBjZ6TijfCtgxpHKcHmS1ZIl5Ur4/M2YbAMU7g0Mbi37AF
+lgsfMt98CTDp32O3Nmz24OaTSN9Y4CYEZWunQTOIZ2+X0uvBCPNT9P6JqvNFWNXA
+QQwAyAoQ+H1zeGBU6sVoRZdxmw62biqLGXp4nw2irMj22UwYdSgiwm7SFsrBl/Lo
+yP9yI93FywL8A7kueFzSYhdRQuB9TGjjccfB7EZiUAbnDK/rDF9y5WZIAYwNU3Y5
+QjrL2NWuC5m3HTFIayD0F8/NBKH71Jzn58xw8SvRwszfWoO/iv6Cd1eV
+=yZQG
+-----END PGP SIGNATURE-----

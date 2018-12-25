@@ -1,3 +1,9 @@
+mx-repo-list (18.12.7) mx; urgency=medium
+
+  * new mirror: Moscow
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 25 Dec 2018 10:49:55 -0500
+
 mx-repo-list (18.12.6) mx; urgency=medium
 
   * new mirror: Pakistan
