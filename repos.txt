@@ -24,6 +24,7 @@ Georgia, Tbilisi - https://mxlinux.grena.ge/mxlinux
 Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
+Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
 Germany, Hamburg - https://mxlinux.mirror.iphh.net/packages
 Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
