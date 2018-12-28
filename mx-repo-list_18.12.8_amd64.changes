@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 28 Dec 2018 09:05:18 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 18.12.8
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (18.12.8) mx; urgency=medium
+ .
+   * new mirror: Serbia, Brazil
+Checksums-Sha1:
+ 848fb615e734b6f2586163b648633bc1d0ccd723 1143 mx-repo-list_18.12.8.dsc
+ c87ea18f44f609374398fd041ed60160fef445b7 3132 mx-repo-list_18.12.8.tar.xz
+ 5581fa4b4d5d4e5fe5eb878fdd80721efe39aa07 3662 mx-repo-list_18.12.8_all.deb
+ 45d91f38640ebfe0f6447193ff16435f36091f11 5518 mx-repo-list_18.12.8_amd64.buildinfo
+Checksums-Sha256:
+ 0c4f033d82331abe3eaafb8d15c684ef16a670db6d2925241dca6b72584af3c8 1143 mx-repo-list_18.12.8.dsc
+ 3a1b6e3ab5aad66177f3ec22030dd4dc3cc120872456c89de744aa03aa4bfb3a 3132 mx-repo-list_18.12.8.tar.xz
+ 7a155bdd1d375df79f91bdafa4ffaabf4cb3ca4c6f5e4759c4d4d5b903e93357 3662 mx-repo-list_18.12.8_all.deb
+ e1403c2628e94f0fb5748277ce6a9311b828789df587e8f542cb7150016347e2 5518 mx-repo-list_18.12.8_amd64.buildinfo
+Files:
+ 0232737cf81b445640d55b41f4f83f55 1143 admin optional mx-repo-list_18.12.8.dsc
+ 36f4cab853fabe960c9202fe4f7f178d 3132 admin optional mx-repo-list_18.12.8.tar.xz
+ 7923d8cdfc62f6ee7debfa89bf131c8a 3662 admin optional mx-repo-list_18.12.8_all.deb
+ 8c3b523738a6b84a5c64500a7b75d69a 5518 admin optional mx-repo-list_18.12.8_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwmLbkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGadB/464RLykKiT5eNvooj2z6cb4kwtMxG0
++9pJAFqL2yT2xNnKFJg82DCeiISnoDhN2hvYcdrxUf4hZrFwxJy6EXc0ZtRawlaQ
+npX7OVzzHV78GZGfEU4I8QosyE0IgbmeuSqLKZKcjD/g1C5L2yhU0pUDeHY2qbco
+dSVI7qDYTKG+DIQ5QhT3NpOKLp7lJHBDSsWbtv2JNFXrD5ytpP6Xc435u7de91eM
+NMqr3ZFNh8+Nv9yV3uQe0/hGi0l9YIRgW2eVUMGSahAc3YQ12UzyhXVPUXO9gUcJ
+iws17xD8yQZOLRZgPT0TAysRdj68bD9GsJ7YcOS4keumTKHoXa6qCa8d
+=T2K0
+-----END PGP SIGNATURE-----
