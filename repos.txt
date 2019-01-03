@@ -51,6 +51,7 @@ New Zealand - http://mx.debian.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines - https://mirror.pregi.net/mx-linux-packages
 Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
+Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
 Russia, Moscow - https://mirror.yandex.ru/mirrors/MX-Linux/MX-Packages
 Serbia, Novi Sad - http://mxlinux.petarmaric.com/packages
