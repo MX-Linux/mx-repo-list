@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 04 Jan 2019 11:24:57 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.1.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.1.1) mx; urgency=medium
+ .
+   * new mirrors: Portugal, US, Germany
+Checksums-Sha1:
+ 4fca65a088bbb7ec932b790477da9a339dbfd8ee 1139 mx-repo-list_19.1.1.dsc
+ c27710d8988571dd5386e8788f0b0b7ca3ecd27c 3284 mx-repo-list_19.1.1.tar.xz
+ 32c85a6c3d2eb17c891e0cce9f4d7e8c48d8b222 3836 mx-repo-list_19.1.1_all.deb
+ 775b51c2f572ec51808c6adb0000d7588f756746 5511 mx-repo-list_19.1.1_amd64.buildinfo
+Checksums-Sha256:
+ 12fa04ca902b63b0291dd63768b9672457c7d8ba56518220d730127081ea56ee 1139 mx-repo-list_19.1.1.dsc
+ abd36a22b2384f12b5593413087ed37c16d550c39e92f9190408fca1d1122b2f 3284 mx-repo-list_19.1.1.tar.xz
+ cb6e4ebe36607e931d511327d2ec0765b6935a60ea3e0ea383aa0c8174ecb921 3836 mx-repo-list_19.1.1_all.deb
+ 33558200e894e5f9a37c57e433568872e156b032c4a31e80999e55e70fa604f2 5511 mx-repo-list_19.1.1_amd64.buildinfo
+Files:
+ d93fe6ebb2bb31c6077b796c308d1eeb 1139 admin optional mx-repo-list_19.1.1.dsc
+ d7757caf46d54921fc810ae0ef536d3c 3284 admin optional mx-repo-list_19.1.1.tar.xz
+ dd7bb55b3b719dacab4dc4f26c02b8f8 3836 admin optional mx-repo-list_19.1.1_all.deb
+ 2de3272b284e4b7da500ef228fcabcd1 5511 admin optional mx-repo-list_19.1.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwvjjsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJ5ECADT95nNaBKw3QMGHgbguyPaH+KqIDgS
+37y0hJEO81na8H0POsUUrOkcGtsKwhJI4CR0T+PAIJwPDQeSF+EMaStfpaIviXmC
+sddMJf7ze60gNGc8O3fbeRrD9diS7aoUrr95JhHGX39Y2KwPedYXu07ETz2YQFNp
+PTmneND/96phxEuaxOTektZNggA2NuCsz1DlP0DvCKjcFmoxB/Ee8djCxJpyLDPP
+xv9fa75KspjLum81GVJ3vB4TBxCRlkSFwKjsBS2zVinxAuz9weq17ffnyYuNVHZe
+sKHa84FwD+l+Xh7+y3/nCzdbRV/LNREJ6C7bPDXHHqBO+mLrA0iRdRcC
+=IU7i
+-----END PGP SIGNATURE-----

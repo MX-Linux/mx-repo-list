@@ -28,6 +28,7 @@ Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
 Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
 Germany, Hamburg - https://mxlinux.mirror.iphh.net/packages
+Germany, Karlsruhe - https://mirror.eu.oneandone.net/linux/distributions/mx/packages
 Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
 Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
@@ -71,6 +72,7 @@ Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Freemont CA - https://mirrors.xtom.com/mx-packages
+United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
