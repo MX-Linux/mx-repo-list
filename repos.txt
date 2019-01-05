@@ -50,6 +50,7 @@ Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 New Zealand - http://mx.debian.nz
+New Zealand, Christchurch - https://mx.primary.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines - https://mirror.pregi.net/mx-linux-packages
 Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
