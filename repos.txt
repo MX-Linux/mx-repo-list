@@ -56,6 +56,7 @@ Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines - https://mirror.pregi.net/mx-linux-packages
 Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
+Romania, Bucharest - https://mirrors.pidginhost.com/mx-linux/packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
 Russia, Moscow - https://mirror.yandex.ru/mirrors/MX-Linux/MX-Packages
 Serbia, Novi Sad - http://mxlinux.petarmaric.com/packages
@@ -72,6 +73,7 @@ Taiwan - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
 Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
+United Kingdom, Coventry - https://anorien.csc.warwick.ac.uk/mirrors/mxlinux/packages
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Freemont CA - https://mirrors.xtom.com/mx-packages
