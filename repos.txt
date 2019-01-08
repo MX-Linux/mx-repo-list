@@ -89,3 +89,4 @@ United States, UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Vietnam, Ho Chi Minh - https://mirror.freedif.org/MXLinux/repo
+Worldwide, Anycast - https://mirrors.evowise.com/mxlinux-packages
