@@ -23,6 +23,7 @@ Ecuador - http://mirror.cedia.org.ec/mx-workspace
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
 France, Saint Étienne du Rouvray - http://ftp.crihan.fr/mirrors/mxlinux.org-packages
+France, Strasbourg - http://ftp.u-strasbg.fr/linux/distributions/mxlinux
 Georgia, Tbilisi - https://mxlinux.grena.ge/mxlinux
 Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
@@ -76,6 +77,7 @@ Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, Coventry - https://anorien.csc.warwick.ac.uk/mirrors/mxlinux/packages
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
+United States, Cambridge MA - http://mxlinux.csail.mit.edu/mxlinux
 United States, Freemont CA - https://mirrors.xtom.com/mx-packages
 United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
