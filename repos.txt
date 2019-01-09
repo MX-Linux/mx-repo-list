@@ -1,3 +1,4 @@
+Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
 Australia, Melbourne - http://mx.mirror.ausnetservers.net.au/packages
 Australia, Launceston - http://mirror.launtel.net.au/repo/mx
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
@@ -46,6 +47,7 @@ Japan, Yamagata - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
 Kazakhstan, Almaty - https://mirror.ps.kz/mx/packages
 Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
 Kenya, Nairobi - https://mirror.liquidtelecom.com/mxlinux/packages
+Latvia, Riga - http://ftp.linux.edu.lv/mxlinux
 Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
 Malaysia, Selangor - http://mirror.myren.net.my/mx-linux
 Netherlands, Alblasserdam - http://nl.mxrepo.com
@@ -69,6 +71,7 @@ Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
+Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
 Taiwan - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
@@ -90,4 +93,3 @@ United States, UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Vietnam, Ho Chi Minh - https://mirror.freedif.org/MXLinux/repo
-Worldwide, Anycast - https://mirrors.evowise.com/mxlinux-packages
