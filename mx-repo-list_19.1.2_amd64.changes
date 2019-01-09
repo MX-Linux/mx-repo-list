@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 09 Jan 2019 10:23:55 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.1.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.1.2) mx; urgency=medium
+ .
+   * new mirrors: Wordwide Anycast, Latvia, Spain, US, France, Romania, Greece, New Zealand
+Checksums-Sha1:
+ 925c98dbdf1577a4b7b170276405417dd65e10ed 1139 mx-repo-list_19.1.2.dsc
+ 64bc02a850a450b8fbaac5df9ee45071eb4b7d96 3528 mx-repo-list_19.1.2.tar.xz
+ bcaf6ffaa409c5308953837f15b64acbb2620a05 4118 mx-repo-list_19.1.2_all.deb
+ af398c047e5a6c5ee6a9b1cb4efc310a370575ea 5513 mx-repo-list_19.1.2_amd64.buildinfo
+Checksums-Sha256:
+ f6b2575d12e017a59a8c6f9727eb1386eaff35195b93e9dd8a680369af4532a3 1139 mx-repo-list_19.1.2.dsc
+ 16b4e7c962a839db52fd302758dc748d4efca4f8716e81ae00eb63df5c5d1eb2 3528 mx-repo-list_19.1.2.tar.xz
+ f4b8977903c764b9d46f96d0c2bd79d8b283ed76fc1ea3f571264ba1e60d1ecc 4118 mx-repo-list_19.1.2_all.deb
+ 78e02d6b5a2d6b1ad79a2c9b6ee14c4c37b2ae03331f19c06b9a1dc24948cd5d 5513 mx-repo-list_19.1.2_amd64.buildinfo
+Files:
+ 365b16a8cd2bb5dbbe35f0b233d69c39 1139 admin optional mx-repo-list_19.1.2.dsc
+ 6f55e87cf4a0c9147b3768731a202d1b 3528 admin optional mx-repo-list_19.1.2.tar.xz
+ 32fbf9fa65e9034d0de1aed6678ddca9 4118 admin optional mx-repo-list_19.1.2_all.deb
+ 2da4cb1ee7beee25547c8baf0fa6f75f 5513 admin optional mx-repo-list_19.1.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlw2EoITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA16CAC8Moizts1Ji4oms24DbF6R9anfMO+s
+zwXPQmVwvry/uAmmfA4LdgCZ2mXHfempm1XdHFwtffzJPakeV6Saba+prPVZCal9
+t+vEcT3xL6XTBWwRinVz0KPCdQc7ICVCdewhr2nSkhyKJWP+6lwK0P126NdUqUx2
+OfVjuGvMkEqQMxRlx7RtPU2Tl1jDMR681eLvRhOPlcG/F7l3W241ruWcuuTCWg4S
+pa3kn7iB5pq/3bMMwO2qAINTks1NkobyPizIYc0o8IXCr2dFDm8ykZspFKya43ZK
+WqrRDxxcaZlXN0s1r9CltIiuWT8tCU5bTlPStsL3kbr03KBgDbu5HMwJ
+=ME7L
+-----END PGP SIGNATURE-----
