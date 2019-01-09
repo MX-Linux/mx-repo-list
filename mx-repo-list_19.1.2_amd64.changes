@@ -18,29 +18,29 @@ Changes:
  .
    * new mirrors: Wordwide Anycast, Latvia, Spain, US, France, Romania, Greece, New Zealand
 Checksums-Sha1:
- 925c98dbdf1577a4b7b170276405417dd65e10ed 1139 mx-repo-list_19.1.2.dsc
- 64bc02a850a450b8fbaac5df9ee45071eb4b7d96 3528 mx-repo-list_19.1.2.tar.xz
- bcaf6ffaa409c5308953837f15b64acbb2620a05 4118 mx-repo-list_19.1.2_all.deb
- af398c047e5a6c5ee6a9b1cb4efc310a370575ea 5513 mx-repo-list_19.1.2_amd64.buildinfo
+ 1c78468b62733112ef70f1b025955d1960507886 1139 mx-repo-list_19.1.2.dsc
+ 96750cbe84228857b73027e0ce69aa0250750736 3544 mx-repo-list_19.1.2.tar.xz
+ 9abdc2532ea5c289869ab275928c346208f04c53 4128 mx-repo-list_19.1.2_all.deb
+ ba2df91882270f3111793ddbd57f491bfd4e2b63 5513 mx-repo-list_19.1.2_amd64.buildinfo
 Checksums-Sha256:
- f6b2575d12e017a59a8c6f9727eb1386eaff35195b93e9dd8a680369af4532a3 1139 mx-repo-list_19.1.2.dsc
- 16b4e7c962a839db52fd302758dc748d4efca4f8716e81ae00eb63df5c5d1eb2 3528 mx-repo-list_19.1.2.tar.xz
- f4b8977903c764b9d46f96d0c2bd79d8b283ed76fc1ea3f571264ba1e60d1ecc 4118 mx-repo-list_19.1.2_all.deb
- 78e02d6b5a2d6b1ad79a2c9b6ee14c4c37b2ae03331f19c06b9a1dc24948cd5d 5513 mx-repo-list_19.1.2_amd64.buildinfo
+ ea930613a560712351b26f547f8c36f6c9272af6fbf9ab31762a78d5fbc38e0b 1139 mx-repo-list_19.1.2.dsc
+ 599c53085c267979188be6e1f14fa8fb4c4c73b71c01158dcbb448c68737ae7c 3544 mx-repo-list_19.1.2.tar.xz
+ 58a30407f7f09037e2f394dd96c7a109a2792b65157c77c489a9c239c6a53d3f 4128 mx-repo-list_19.1.2_all.deb
+ cbb03811a95f02fdccd894859f6265a7b9224c9de6fc4b17d77d435a84c67ee3 5513 mx-repo-list_19.1.2_amd64.buildinfo
 Files:
- 365b16a8cd2bb5dbbe35f0b233d69c39 1139 admin optional mx-repo-list_19.1.2.dsc
- 6f55e87cf4a0c9147b3768731a202d1b 3528 admin optional mx-repo-list_19.1.2.tar.xz
- 32fbf9fa65e9034d0de1aed6678ddca9 4118 admin optional mx-repo-list_19.1.2_all.deb
- 2da4cb1ee7beee25547c8baf0fa6f75f 5513 admin optional mx-repo-list_19.1.2_amd64.buildinfo
+ b1b75f66ffcdff6e63041a6276a3aa29 1139 admin optional mx-repo-list_19.1.2.dsc
+ aca340583079d6110183caec90d65a3e 3544 admin optional mx-repo-list_19.1.2.tar.xz
+ 87f0177f7946055b4235b5eecd47ed9e 4128 admin optional mx-repo-list_19.1.2_all.deb
+ 710803f311536964390bb79698420ebc 5513 admin optional mx-repo-list_19.1.2_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlw2EoITHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA16CAC8Moizts1Ji4oms24DbF6R9anfMO+s
-zwXPQmVwvry/uAmmfA4LdgCZ2mXHfempm1XdHFwtffzJPakeV6Saba+prPVZCal9
-t+vEcT3xL6XTBWwRinVz0KPCdQc7ICVCdewhr2nSkhyKJWP+6lwK0P126NdUqUx2
-OfVjuGvMkEqQMxRlx7RtPU2Tl1jDMR681eLvRhOPlcG/F7l3W241ruWcuuTCWg4S
-pa3kn7iB5pq/3bMMwO2qAINTks1NkobyPizIYc0o8IXCr2dFDm8ykZspFKya43ZK
-WqrRDxxcaZlXN0s1r9CltIiuWT8tCU5bTlPStsL3kbr03KBgDbu5HMwJ
-=ME7L
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlw2Gc8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJg0CACdA9fBnN2ArxmbE46AujNipt75iGkf
+aEFLRlHMkvK4fM/oq21fRqEMHa5CotsJQe92tUO8lVzI5qbkjgRqwLSxy2HvyMaw
++NZO7OSULQhCJynRvT7am06s1vVpkbMzJXPGDDK7owMn+qQjSXf5uB3JxNywVPqP
+heJPNErfgs9PxLfzOYpZNYbQhMdJeLmZztKD3jB/WfkeZpVh03ys/o8U6cKtNV5p
+uJsI3xInZ4GbBcBT1SSsUhoQL8BmXisVj94kSwoqTneAOsj+Is5wdxpyb61RVOAY
+JqjJEzaN7Q59BnRcbRznZ5Xt4BTWpaxIuvQrDWx3alslLayy/llvMXdZ
+=MzjM
 -----END PGP SIGNATURE-----
