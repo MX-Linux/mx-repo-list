@@ -73,6 +73,7 @@ Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
+South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
@@ -82,6 +83,7 @@ Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
 Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, Coventry - https://anorien.csc.warwick.ac.uk/mirrors/mxlinux/packages
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
+United Kingdom, Manchester - https://mirrors.ukfast.co.uk/sites/MX_antiX_packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Cambridge MA - http://mxlinux.csail.mit.edu/mxlinux
 United States, Freemont CA - https://mirrors.xtom.com/mx-packages
