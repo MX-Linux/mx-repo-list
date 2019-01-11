@@ -57,7 +57,7 @@ Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 New Zealand - http://mx.debian.nz
-New Zealand, Christchurch - https://mx.mirrors.theom.nz
+New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines - https://mirror.pregi.net/mx-linux-packages
 Poland - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
@@ -88,7 +88,7 @@ United States, Freemont CA - https://mirrors.xtom.com/mx-packages
 United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
-United States, OR - http://ftp.osuosl.org/pub/mxlinux
+United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
