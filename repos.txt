@@ -69,6 +69,7 @@ Serbia, Novi Sad - http://mxlinux.petarmaric.com/packages
 Singapore - https://mirror.0x.sg/mx-workspace
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
+South Korea, Busan - http://ftp.harukasan.org/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
