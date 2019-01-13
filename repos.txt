@@ -14,6 +14,7 @@ Canada, Halifax - http://mirror.its.dal.ca/mxlinux
 Canada, Montreal - http://mirror.cedille.club/mx-linux
 Canada, Toronto - http://mirror.utoronto.ca/mxlinux
 Canada, Vancouver - http://mirror.it.ubc.ca/mxlinux
+Canada, Waterloo - https://mirror.csclub.uwaterloo.ca/mxlinux
 Chile, Santiago - http://mirror.netlinux.cl/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
