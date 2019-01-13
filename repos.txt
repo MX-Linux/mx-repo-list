@@ -53,7 +53,7 @@ Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
 Kenya, Nairobi - https://mirror.liquidtelecom.com/mxlinux/packages
 Latvia, Riga - http://ftp.linux.edu.lv/mxlinux
 Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
-Malaysia, Selangor - http://mirror.myren.net.my/mx-linux
+Malaysia, Selangor - http://mirror.myren.net.my/mx-packages
 Mexico, Mexico City - http://mmc.geofisica.unam.mx/Replicas/mxlinux
 Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
