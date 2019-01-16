@@ -47,6 +47,7 @@ Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
+Italy, Cerveteri Roma - https://mirror.crazynetwork.it/mx-linux/packages
 Italy, Milano - http://it.mxrepo.com
 Japan, Osaka - https://mirrors.cat.net/mx-packages
 Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
