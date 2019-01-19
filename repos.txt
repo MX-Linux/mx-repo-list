@@ -17,6 +17,7 @@ Canada, Toronto - http://mirror.utoronto.ca/mxlinux
 Canada, Vancouver - http://mirror.it.ubc.ca/mxlinux
 Canada, Waterloo - https://mirror.csclub.uwaterloo.ca/mxlinux
 Chile, Santiago - http://mirror.netlinux.cl/mxlinux
+Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
@@ -33,6 +34,7 @@ France, Strasbourg - http://ftp.u-strasbg.fr/linux/distributions/mxlinux
 Georgia, Tbilisi - https://mxlinux.grena.ge/mxlinux
 Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Bochum - https://linux.rub.de/mxlinux/packages
+Germany, Chemnitz - http://ftp.tu-chemnitz.de/pub/linux/MX/Repo
 Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
 Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
@@ -47,19 +49,20 @@ Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
-Italy, Cerveteri Roma - https://mirror.crazynetwork.it/mx-linux/packages
-Italy, Milano - http://it.mxrepo.com
+Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
+Italy, Milan - http://it.mxrepo.com
 Japan, Osaka - https://mirrors.cat.net/mx-packages
 Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
 Japan, Yonezawa - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
 Kazakhstan, Almaty - https://mirror.ps.kz/mx/packages
 Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
-Kenya, Nairobi - https://mirror.liquidtelecom.com/mxlinux/packages
+Kenya, Nairobi - https://mxlinux.mirror.liquidtelecom.com/packages
 Latvia, Riga - http://ftp.linux.edu.lv/mxlinux
 Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
 Luxembourg, Roost - http://mxl.mirror.root.lu
 Malaysia, Selangor - http://mirror.myren.net.my/mx-packages
 Mexico, Mexico City - http://mmc.geofisica.unam.mx/Replicas/mxlinux
+Namibia, Windhoek - http://download.nust.na/pub/mxlinux
 Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
@@ -78,7 +81,7 @@ Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 South Korea, Busan - http://ftp.harukasan.org/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
-Sweden - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
+Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
@@ -98,12 +101,13 @@ United States, Cambridge MA - http://mxlinux.csail.mit.edu/mxlinux
 United States, Fremont CA - https://mirrors.xtom.com/mx-packages
 United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
+United States, Madison WI - http://mxlinux.mirrors.tds.net/mxlinux
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
-United States, Salt Lake UT - http://mxrepo.com
+United States, Salt Lake City UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Vietnam, Ho Chi Minh - https://mirror.freedif.org/MXLinux/repo
