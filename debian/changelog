@@ -1,3 +1,10 @@
+mx-repo-list (19.1.5) mx; urgency=medium
+
+  * new mirrors: Ukraine, Louxemburg, Austria, Germany, Greece, Namibia, USA Madison, Chile
+  * fix Kenya url
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 19 Jan 2019 18:24:26 -0500
+
 mx-repo-list (19.1.4) mx; urgency=medium
 
   * new mirror: Canada

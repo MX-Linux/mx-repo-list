@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 19 Jan 2019 18:24:26 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.1.5
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.1.5) mx; urgency=medium
+ .
+   * new mirrors: Ukraine, Louxemburg, Austria, Germany, Greece, Namibia, USA Madison, Chile
+   * fix Kenya url
+Checksums-Sha1:
+ f53182fd54950ea183d38edfc96b46fc0572d5cb 1139 mx-repo-list_19.1.5.dsc
+ 0772025beb145ca37bd81c6fc29b3b32147c3f1b 4000 mx-repo-list_19.1.5.tar.xz
+ 238500ab0fbd4737677f21909d64bac9101a8250 4620 mx-repo-list_19.1.5_all.deb
+ 16194a14dd58206c3c82be4003e5d4d147af0e23 5798 mx-repo-list_19.1.5_amd64.buildinfo
+Checksums-Sha256:
+ e9e10f4179525001c1de99bfb3014196940becaee1293600f59e1a664e7a3fda 1139 mx-repo-list_19.1.5.dsc
+ f6215b384b818256f5fcab99365f014fcf2d9cc8998d43cf16e0833746126d0d 4000 mx-repo-list_19.1.5.tar.xz
+ c4598c5976a65b14e1c3c00354e8a1aa151f58ef61a18be454b69a8d383e962a 4620 mx-repo-list_19.1.5_all.deb
+ 2ec49673dfe026da6a0c3c814e571d4f089e651c58f69ce9ff7baecc38f837a1 5798 mx-repo-list_19.1.5_amd64.buildinfo
+Files:
+ c77282021a136c66279828b065832db5 1139 admin optional mx-repo-list_19.1.5.dsc
+ 6d6c9dc3b135c0358e7f3ae37e90537a 4000 admin optional mx-repo-list_19.1.5.tar.xz
+ cc6dada521f821e26ffc078f1f0fe25c 4620 admin optional mx-repo-list_19.1.5_all.deb
+ 41fc6d0b0c0d24ab515931d6984190b2 5798 admin optional mx-repo-list_19.1.5_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxDt1ETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIAQB/0QcaUuJnMTcX3nJOm2SIGnSr4gw1r5
+wFRJh4RGZWmOwhzkJsR8VMMD3Rv+A8KSdQojVDT9INoU7zEJzl6zO+ku0K7mKldh
+hilys7P3vm/KzrB+wiNQ/RzIajzvwLI0RcaAXotrC41rHOcUTIZKlu961ZIQNCZ1
+Cl7+u+cfmudJkNkulhYh7XUzEDiUigATh5BCfkir/DguS3GCRZAgAXDyC6ux6+97
+0bz/qM1OmgyioCzHXulWixc6gTjvJu4QHoHEgR+ljs5kdUI8tZ1kz1WzL2cYMeLv
+vm4ZOhPd8sjpjyPO3VRtsD/gAmst77TkQ+xgTmmzZ2rUlfKE6QQmH04u
+=eItK
+-----END PGP SIGNATURE-----
