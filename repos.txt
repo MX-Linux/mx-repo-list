@@ -17,6 +17,7 @@ Canada, Toronto - http://mirror.utoronto.ca/mxlinux
 Canada, Vancouver - http://mirror.it.ubc.ca/mxlinux
 Canada, Waterloo - https://mirror.csclub.uwaterloo.ca/mxlinux
 Chile, Santiago - http://mirror.netlinux.cl/mxlinux
+Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
@@ -55,7 +56,7 @@ Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
 Japan, Yonezawa - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
 Kazakhstan, Almaty - https://mirror.ps.kz/mx/packages
 Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
-Kenya, Nairobi - https://mirror.liquidtelecom.com/mxlinux/packages
+Kenya, Nairobi - https://mxlinux.mirror.liquidtelecom.com/packages
 Latvia, Riga - http://ftp.linux.edu.lv/mxlinux
 Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
 Luxembourg, Roost - http://mxl.mirror.root.lu
