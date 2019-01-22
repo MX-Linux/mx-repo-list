@@ -84,6 +84,7 @@ Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 South Korea, Busan - http://ftp.harukasan.org/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
+Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
@@ -109,6 +110,7 @@ United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
+United States, Washington DC - http://mirror.cogentco.com/pub/linux/mxlinux
 United States, Salt Lake City UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
