@@ -21,6 +21,7 @@ Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
+Colombia, Santa Marta - http://mirror.unimagdalena.edu.co/mxlinux
 Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
 Czech Republic, Prague - https://ftp.sh.cvut.cz/mxlinux/packages
@@ -71,6 +72,7 @@ New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines, Quezon City - https://mirror.pregi.net/mx-linux-packages
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
+Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
 Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
 Romania, Bucharest - https://mirrors.pidginhost.com/mx-linux/packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
