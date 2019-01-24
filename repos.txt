@@ -56,6 +56,7 @@ Italy, Milan - http://it.mxrepo.com
 Japan, Osaka - https://mirrors.cat.net/mx-packages
 Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
 Japan, Yonezawa - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
+Japan, Wakō - http://ftp.riken.jp/Linux/mxlinux
 Kazakhstan, Almaty - https://mirror.ps.kz/mx/packages
 Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
 Kenya, Nairobi - https://mxlinux.mirror.liquidtelecom.com/packages
