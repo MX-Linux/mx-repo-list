@@ -23,6 +23,7 @@ Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
+Colombia, Medellín - http://mirror.upb.edu.co/mx-workspace
 Colombia, Santa Marta - http://mirror.unimagdalena.edu.co/mxlinux
 Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
