@@ -5,6 +5,7 @@ Australia, Sydney - http://mirror.datamossa.io/mxlinux
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
 Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
+Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
 Belgium, Brussels - http://mirror.adct.be/mx
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
