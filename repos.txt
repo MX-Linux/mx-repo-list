@@ -5,6 +5,7 @@ Australia, Sydney - http://mirror.datamossa.io/mxlinux
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
 Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
+Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
 Belgium, Brussels - http://mirror.adct.be/mx
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
@@ -95,6 +96,7 @@ South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
+Taiwan, Hsinchu - http://linux.cs.nctu.edu.tw/mxlinux/mx-workspace
 Taiwan, Taoyuan City - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
@@ -113,6 +115,7 @@ United States, Madison SD - http://repo.ialab.dsu.edu/mxlinux/mxlinux
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
+United States, Richmond VA - https://mirror.vcu.edu/pub/gnu_linux/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
 United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
