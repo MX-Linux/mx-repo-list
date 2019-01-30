@@ -96,7 +96,7 @@ South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
-Taiwan, Hsinchu - http://linux.cs.nctu.edu.tw/mxlinux/mx-workspace
+Taiwan, Hsinchu - http://mxlinux.cs.nctu.edu.tw/mx-workspace
 Taiwan, Taoyuan City - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
