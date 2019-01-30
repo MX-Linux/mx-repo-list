@@ -53,6 +53,7 @@ Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
+Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
 Italy, Milan - http://it.mxrepo.com
 Japan, Osaka - https://mirrors.cat.net/mx-packages
@@ -107,6 +108,7 @@ United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
 United Kingdom, Manchester - https://mirrors.ukfast.co.uk/sites/MX_antiX_packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Cambridge MA - http://mxlinux.csail.mit.edu/mxlinux
+United States, Chicago IL - https://mirror.genesisadaptive.com/mxlinux
 United States, Fremont CA - https://mirrors.xtom.com/mx-packages
 United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
