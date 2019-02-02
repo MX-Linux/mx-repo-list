@@ -6,12 +6,14 @@ Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
 Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
+Belgium, Brussels - https://ftp.belnet.be/mirror2/ftp.belnet.be/mxlinux/packages
 Belgium, Brussels - http://mirror.adct.be/mx
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
 Brazil, Manaus - http://mirror.ufam.edu.br/mx
 Bulgaria, Sofia - https://mirrors.netix.net/mx/MX-Packages
 Bulgaria, Sofia - https://mxlinux.ipacct.com/MX-Packages
+Canada, Edmonton - http://mirrors.switch.ca/mx-packages
 Canada, Halifax - http://mirror.its.dal.ca/mxlinux
 Canada, Manitoba - https://muug.ca/mirror/mx-packages
 Canada, Montreal - http://mirror.cedille.club/mx-linux

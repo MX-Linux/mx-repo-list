@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 02 Feb 2019 08:33:10 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.2) mx; urgency=medium
+ .
+   * new mirrors: Azerbaijan, Canada, Colombia, Italy, Japan, Poland, Portugal, Switzerland, Taiwan, US
+Checksums-Sha1:
+ 864b6441fe9f9fa8ea93b78c659090e28036dfc4 1131 mx-repo-list_19.2.dsc
+ 641776bb16473fe677dc7d20b8f5720d1ca42075 4404 mx-repo-list_19.2.tar.xz
+ e9ef93e40cdc1027b21e3f4f1ac4498ccd702670 4966 mx-repo-list_19.2_all.deb
+ 4264d016ef0de1f9f9a3e94236fcf0dc6927e5ae 5784 mx-repo-list_19.2_amd64.buildinfo
+Checksums-Sha256:
+ 183c97624e3f9e5bf123086f6e5292b1f3a050c97bbe7e0fea81b02e05113b63 1131 mx-repo-list_19.2.dsc
+ e520c8624b8e8cf316ffb870dc2e0e23ba2a1f212b29cfc127d75e02d3249a24 4404 mx-repo-list_19.2.tar.xz
+ 202f051eaf90375069f81b395ff7f22c996a9a1c7e0e8773000375b4ed9037ac 4966 mx-repo-list_19.2_all.deb
+ aa8cfd60df19442b731e13ea1a0e99d0334b086f40c3b71fc674edd41f96bb9a 5784 mx-repo-list_19.2_amd64.buildinfo
+Files:
+ 8da9a7e12646fed2b3114dc50fc0128c 1131 admin optional mx-repo-list_19.2.dsc
+ 9ce559c08771968b34bf360e21845046 4404 admin optional mx-repo-list_19.2.tar.xz
+ 20f1c7d4ee690084194f8dced020f335 4966 admin optional mx-repo-list_19.2_all.deb
+ 942b2551f7ef50026f798b0e84ea020a 5784 admin optional mx-repo-list_19.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxVqRUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCBOB/9WfUw6k/3ftDYfatlwzvqX9E8PC7YG
+8BTF4tNH9rHrZWYMijiz/53fT7fkByV1x4spsdNzEKSRr09kVFISyqL1oOLoR1I2
+rNaSGq9vpChgMK7X5/mjy81a6FpBykFQNuckM3ABacnsSym5YKPcmU4hN0gHzxxD
+VsqSiVO19GCReYJFZoCJVBfKK7R187ZUaMz+coEQYRytyI8LmMROzhBcgnhleUoO
+xvVzFejejVotxqJBHO9+/thDk/ld5m4tkwWg4L9cbk0d1gLDnKkOpCFqPwMarNqL
+w+bw1GCViGqxMWKSGzESs+RKRdd20QWyC42NZdJV/GUc1pThoaya5B1Y
+=b41+
+-----END PGP SIGNATURE-----
