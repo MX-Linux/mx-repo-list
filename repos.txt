@@ -70,6 +70,7 @@ Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
 Luxembourg, Roost - http://mxl.mirror.root.lu
 Malaysia, Selangor - http://mirror.myren.net.my/mx-packages
 Mexico, Mexico City - http://mmc.geofisica.unam.mx/Replicas/mxlinux
+Moldova, Chisinau - https://mirrors.mivocloud.com/mx-linux/MX-Packages
 Namibia, Windhoek - http://download.nust.na/pub/mxlinux
 Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
