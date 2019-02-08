@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 08 Feb 2019 12:52:58 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.2.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.2.1) mx; urgency=medium
+ .
+   * new mirrors: Germany, India, Spain
+Checksums-Sha1:
+ c22c6276889d627e53c6575dd6b0008d3e95fc1d 1139 mx-repo-list_19.2.1.dsc
+ 6b1b82d6c9006817f75c2587e5b405fc4ed6eeb5 4472 mx-repo-list_19.2.1.tar.xz
+ 296aa57d8d9568a6a25405580cf71000d6022aaa 5078 mx-repo-list_19.2.1_all.deb
+ 098a9d562de6246fc8929352e1ed035efc15d466 5563 mx-repo-list_19.2.1_amd64.buildinfo
+Checksums-Sha256:
+ 9e8eb0bcad60e385953db06ff1a69a56989935137323952a8b6038a8957f3434 1139 mx-repo-list_19.2.1.dsc
+ acdc749926027ee66c1f363ff5fde4b8f5f7aea4b7abc7dec68b1704aa7b58d3 4472 mx-repo-list_19.2.1.tar.xz
+ 1406499c8186051ee4ee57da6ee5a6b9a38af760da9c0ae9fcea4e96617b7dd0 5078 mx-repo-list_19.2.1_all.deb
+ f00aa250739792e1b86a4ce5b2ba038f82813764505e4546b1b6b2a6b62e7e00 5563 mx-repo-list_19.2.1_amd64.buildinfo
+Files:
+ 0ad67b4bfdb745f0531d21941c8d49bd 1139 admin optional mx-repo-list_19.2.1.dsc
+ 314c54d5021a52106d158090d40e924b 4472 admin optional mx-repo-list_19.2.1.tar.xz
+ d57334ecec85c2c20c097509a2ec4820 5078 admin optional mx-repo-list_19.2.1_all.deb
+ 9a03a92d463247ec2b31f18d768c5158 5563 admin optional mx-repo-list_19.2.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxdwjETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHlfB/9g+jDNWQRnvCkeqj3F0vgBLRtI7mgC
+xUoOuxuCvkfM2FDZmQZWVvSCfYwl/sZrpwULFXfE95+gUMHIAi/tGd7N2nTQm/dP
+JFDpVc0CZBhlLys7u/a4HWgnKsDdOjykY+1REkEU+QTHIz+47QNnwileFBMFrmrI
+8xbs1lHvxmiaZ1b1vIxu2dXoOPc8f2MGWRDsrdZImPPfm6nrBRmmhTm7cN6jS8O9
++989H0yF1taqeG6ie37kslg5lzDunu1o01dIpxh+4yoURT7V0+NL7xp2KnNiQ1Wg
+CD+Ork0c8oaw0sPb6AL/NTY+UsYv0tffBCd8NI9UvC2kFyEH3DvK4JeT
+=c6Dp
+-----END PGP SIGNATURE-----

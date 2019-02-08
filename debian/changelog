@@ -1,3 +1,9 @@
+mx-repo-list (19.2.1) mx; urgency=medium
+
+  * new mirrors: Germany, India, Spain
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 08 Feb 2019 12:52:58 -0500
+
 mx-repo-list (19.2) mx; urgency=medium
 
   * new mirrors: Azerbaijan, Canada, Colombia, Italy, Japan, Poland, Portugal, Switzerland, Taiwan, US
