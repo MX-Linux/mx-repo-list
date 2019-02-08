@@ -42,6 +42,7 @@ Georgia, Tbilisi - https://mxlinux.grena.ge/mxlinux
 Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Bochum - https://linux.rub.de/mxlinux/packages
 Germany, Chemnitz - http://ftp.tu-chemnitz.de/pub/linux/MX/Repo
+Germany, Cologne - http://mirror.plusserver.com/mxlinux/mxlinux
 Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
 Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
@@ -55,6 +56,7 @@ Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
 Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
+India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
@@ -99,6 +101,7 @@ Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
+Spain, Madrid - https://mxlinux.redimadrid.es/MX-Packages
 Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
 Taiwan, Hsinchu - http://mxlinux.cs.nctu.edu.tw/mx-workspace
