@@ -132,4 +132,5 @@ United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
 United States, Salt Lake City UT - http://mxrepo.com
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
+Uzbekistan, Tashkent - http://mirror.dc.uz/mxlinux
 Vietnam, Ho Chi Minh - https://mirror.freedif.org/MXLinux/repo

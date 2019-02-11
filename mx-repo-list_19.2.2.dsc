@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 9)
 Package-List:
  mx-repo-list deb admin optional arch=all
 Checksums-Sha1:
- 49fad67887da11bee5edbfb6d36417748c1986f7 4536 mx-repo-list_19.2.2.tar.xz
+ 5172c49084efbcf92505ef46754bfdf41a3ae81f 4552 mx-repo-list_19.2.2.tar.xz
 Checksums-Sha256:
- 6e9b6694903110dc41c80df7c379b1ca08b3b37c1122693ebb673eedbc5c37b8 4536 mx-repo-list_19.2.2.tar.xz
+ 53b8f90e76fd3ed362e3021cb17eb1b76f8960934d2cc3855feb791cd052e3a8 4552 mx-repo-list_19.2.2.tar.xz
 Files:
- 263ed5c0cb959e22b2a4aec935446b62 4536 mx-repo-list_19.2.2.tar.xz
+ 2adbf51fe22b3239373924fac891fba6 4552 mx-repo-list_19.2.2.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxhjR0THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOnWB/9Dw1jUCfhunGKGUNqFUvmZtNvX82C+
-tSIeKLSRuG4BBtewvMKe5tiFg/uIesYmgBdSM9yWLvxGxEPff6WqX6Lz035fwrhR
-I6KUnTpFxLJQpK7AXiS/bOII2Mzeraz8qFEXAVO6ssKxbXqyAmK2NSlo4DmUwyV0
-CSHxqCV+Yuvf2ZmBkethZfyWbF6MLwu4gzReQ1uveZHUlUoKSrzVy7Jq6bjW9+JC
-7bBocTVtEgJbQW8+K8ejlF1fWOa4X7FnVKdWv71acITsSVXMRtVj8yb+3i8Cw6CI
-5CSLY4Oy/+gz/OvRlMAHSf7XDzwB0UXaKtqszNBecIbHOavJqDMoVPbh
-=5LPb
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxhjpATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOMnB/9Wu9KaAqk7UkZBu4V70QSHGMoztn3V
+QVR+GO8M7fjDdhv04CD6WnriJ9d/G7H3p2UPkXw9nBULN+vmO/MWZs+lsQdynA3O
+hrfkUQ+CTzUOJQo0oiRDhevf6/3c889TECwQdjnSHh6L6ddJYzhUZdGtPFUNS8MK
+Y8pgOFw570m1190fieYwdGf/wmfY6VWt4XUjAdEw0PAREMjPnrfLOAl9MUwx7NlN
+BdKSxYfdkUVJfjHN1DeKw4WLDTl7ajLkFHULbLueCtGnVrK6Z9UfZhP3okoixv0w
+aHkJXAWp3apDA4H/4oORI1VeSqyaTAVt9c/mSDD3tzRuT2FDXS19Tep+
+=RGuc
 -----END PGP SIGNATURE-----
