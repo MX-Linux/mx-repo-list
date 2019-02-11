@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 11 Feb 2019 09:55:46 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.2.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.2.2) mx; urgency=medium
+ .
+   * new mirror: France
+   * commented out Evowise mirror that had a number of problems
+Checksums-Sha1:
+ 7525757fe02c11603a143469512cee62bb95dd25 1139 mx-repo-list_19.2.2.dsc
+ 49fad67887da11bee5edbfb6d36417748c1986f7 4536 mx-repo-list_19.2.2.tar.xz
+ 77dfdb21ee84424878bbe0772e891fed00d22bed 5152 mx-repo-list_19.2.2_all.deb
+ b66012336ccc8e7a95c385bb5186b20e9f767a6e 5563 mx-repo-list_19.2.2_amd64.buildinfo
+Checksums-Sha256:
+ af7548b09492e264714cba630991ffb603f8ae91c6712fe7f13c1018836b0043 1139 mx-repo-list_19.2.2.dsc
+ 6e9b6694903110dc41c80df7c379b1ca08b3b37c1122693ebb673eedbc5c37b8 4536 mx-repo-list_19.2.2.tar.xz
+ b6206462614d33c54579c6fad23e029ba4b22cfcdf75613fa758b366354a30e0 5152 mx-repo-list_19.2.2_all.deb
+ 7c88a2251639717fe3ae2236fd38e32af7a2ab704ed48ff9840dcdec36d0932e 5563 mx-repo-list_19.2.2_amd64.buildinfo
+Files:
+ db7c22815e39a1fb8f55d8323a6f42d8 1139 admin optional mx-repo-list_19.2.2.dsc
+ 263ed5c0cb959e22b2a4aec935446b62 4536 admin optional mx-repo-list_19.2.2.tar.xz
+ 4cefa55e0d379dd66e4fa68b3ba4a127 5152 admin optional mx-repo-list_19.2.2_all.deb
+ e238d87c342fae45ccc7b2453b803427 5563 admin optional mx-repo-list_19.2.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxhjR0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMMRB/sFR5iYz0BdCsQW5/SH37r+Ih+C2lJB
+yGazrZBFuLoblPpV3vfSrw/OUyp53EeuXW96PrByo7Coc225vh63PH14nSJen+3M
+ZBDr9n1sQ0sVM38LHHS7HlyVGDBBoAUJ2+Ou9CE3Br1Vskt/AUYGMlBb0gveeb5a
+vHPzwFhVn9A2keFGDjEZvzVyHdruxcc7PZChOiRGNVC3CFTHI/dU5M9lV+qgsZxf
+SWl1pbuqbqSyUp82FPf2Aetc49OOlRkYxQjxsJmuA7c3iuT8CYjE+V3DHevEDqci
+7vhXWUp77y0c+mLA97GbITAPY8+0ldJQsVmcsoizRJOERQVn3KgN3ig/
+=NwGE
+-----END PGP SIGNATURE-----

@@ -1,4 +1,4 @@
-Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
+# Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
 Australia, Launceston - http://mirror.launtel.net.au/repo/mx
 Australia, Melbourne - http://mx.mirror.ausnetservers.net.au/packages
 Australia, Sydney - http://mirror.datamossa.io/mxlinux
@@ -36,6 +36,7 @@ Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
+France, Paris - https://mirrors.ircam.fr/pub/mx/packages
 France, Saint Étienne du Rouvray - http://ftp.crihan.fr/mirrors/mxlinux.org-packages
 France, Strasbourg - http://ftp.u-strasbg.fr/linux/distributions/mxlinux
 Georgia, Tbilisi - https://mxlinux.grena.ge/mxlinux

@@ -1,3 +1,10 @@
+mx-repo-list (19.2.2) mx; urgency=medium
+
+  * new mirror: France
+  * commented out Evowise mirror that had a number of problems
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 11 Feb 2019 09:55:46 -0500
+
 mx-repo-list (19.2.1) mx; urgency=medium
 
   * new mirrors: Germany, India, Spain
