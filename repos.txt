@@ -1,4 +1,5 @@
 # Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
+Argentina, Cordoba - http://mxlinux.unc.edu.ar/mxlinux
 Australia, Launceston - http://mirror.launtel.net.au/repo/mx
 Australia, Melbourne - http://mx.mirror.ausnetservers.net.au/packages
 Australia, Sydney - http://mirror.datamossa.io/mxlinux
@@ -62,6 +63,7 @@ Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
 Italy, Milan - http://it.mxrepo.com
+Italy, Trieste - http://mirror.units.it/mxlinux
 Japan, Osaka - https://mirrors.cat.net/mx-packages
 Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
 Japan, Yonezawa - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
@@ -79,6 +81,7 @@ Namibia, Windhoek - http://download.nust.na/pub/mxlinux
 Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
+New Caledonia, Nouméa - http://mirror.lagoon.nc/pub/mxlinux
 New Zealand, Tauranga - http://mx.debian.nz
 New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
