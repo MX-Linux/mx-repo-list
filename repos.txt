@@ -60,6 +60,7 @@ Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
 India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
+Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
