@@ -7,6 +7,7 @@ Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
 Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
+Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
 Belgium, Brussels - https://ftp.belnet.be/mirror2/ftp.belnet.be/mxlinux/packages
 Belgium, Brussels - http://mirror.adct.be/mx
 Botswana, Gabarone - http://mirror.retentionrange.co.bw/mxlinux/packages
@@ -59,6 +60,7 @@ Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
 India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
+Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
@@ -98,6 +100,7 @@ Singapore - https://mirror.0x.sg/mx-workspace
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 South Korea, Busan - http://ftp.harukasan.org/mxlinux
+South Korea, Daejeon - http://ftp.kaist.ac.kr/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
