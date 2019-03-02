@@ -126,6 +126,7 @@ United States, Chicago IL - https://mirror.genesisadaptive.com/mxlinux
 United States, Fremont CA - https://mirrors.xtom.com/mx-packages
 United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
 United States, Los Angeles CA - http://la.mxrepo.com
+United States, Los Angeles CA - http://mirror.enzu.com/mxlinux
 United States, Madison WI - http://mxlinux.mirrors.tds.net/mxlinux
 United States, Madison SD - http://repo.ialab.dsu.edu/mxlinux/mxlinux
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
