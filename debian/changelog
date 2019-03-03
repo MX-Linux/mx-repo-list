@@ -1,3 +1,9 @@
+mx-repo-list (19.3) mx; urgency=medium
+
+  * new mirrors: Argentina, Belarus, Indonesia, Italy, Los Angeles, New Caledonia, Uzbekistan, South Korea
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 03 Mar 2019 08:36:42 -0500
+
 mx-repo-list (19.2.2) mx; urgency=medium
 
   * new mirror: France

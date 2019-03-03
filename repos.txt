@@ -1,4 +1,4 @@
-# Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
+Anycast, Worldwide - https://mirrors.evowise.com/mxlinux-packages
 Argentina, Cordoba - http://mxlinux.unc.edu.ar/mxlinux
 Australia, Launceston - http://mirror.launtel.net.au/repo/mx
 Australia, Melbourne - http://mx.mirror.ausnetservers.net.au/packages
