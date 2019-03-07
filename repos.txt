@@ -9,7 +9,7 @@ Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
 Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
 Belgium, Brussels - https://ftp.belnet.be/mirror2/ftp.belnet.be/mxlinux/packages
-Belgium, Brussels - http://mirror.adct.be/mx
+Belgium, Brussels - http://mirror.adct.be/mx/packages
 Botswana, Gabarone - http://mirror.retentionrange.co.bw/mxlinux/packages
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
@@ -62,6 +62,8 @@ India, Haryana - https://mx.mirrors.estointernet.in/packages
 India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
 Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
+Indonesia - https://mirror.deace.id/mxlinux
+Israel, Tel Aviv - https://mxlinux.aumix.com/mxlinux
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
 Italy, Milan - http://it.mxrepo.com
