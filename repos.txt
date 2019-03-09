@@ -36,6 +36,7 @@ Czech Republic, Prague - https://ftp.sh.cvut.cz/mxlinux/packages
 Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
+France, Amiens - http://ftp.u-picardie.fr/pub/mxlinux
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
 France, Paris - https://mirrors.ircam.fr/pub/mx/packages
@@ -62,7 +63,7 @@ India, Haryana - https://mx.mirrors.estointernet.in/packages
 India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
 Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
-Indonesia - https://mirror.deace.id/mxlinux
+Indonesia - http://mirror.deace.id/mxlinux
 Israel, Tel Aviv - https://mxlinux.aumix.com/mxlinux
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
