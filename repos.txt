@@ -64,6 +64,7 @@ India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
 Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Indonesia - http://mirror.deace.id/mxlinux
+Ireland, Dublin - http://mirror.strencom.net/mxlinux/packages
 Israel, Tel Aviv - https://mxlinux.aumix.com/mxlinux
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
