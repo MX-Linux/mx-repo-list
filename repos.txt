@@ -142,6 +142,7 @@ United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
 United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
 United States, Salt Lake City UT - http://mxrepo.com
+Uganda, Kampala - http://mirror.renu.ac.ug/mxlinux
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Uzbekistan, Tashkent - http://mirror.dc.uz/mxlinux
