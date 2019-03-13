@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 13 Mar 2019 00:14:51 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.3.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.3.1) mx; urgency=medium
+ .
+   * new mirrors: France, Indonesia, Israel, Poland, Uganda
+Checksums-Sha1:
+ f8aecabfcbf34d6b403401d1b70cec3b3d87bc81 1139 mx-repo-list_19.3.1.dsc
+ 3fa5db9e81211c92bbfbe844cdfdbb41865c0334 4832 mx-repo-list_19.3.1.tar.xz
+ 7b78b11cf49eb4aeb12b4a6e8e29de05bec71341 5476 mx-repo-list_19.3.1_all.deb
+ a4ab0f52e6eff259de2ce840171f085bb4e36a3f 5812 mx-repo-list_19.3.1_amd64.buildinfo
+Checksums-Sha256:
+ 33d20c5b4857ae5736ca0e7de19c042f553e6d454c2728f64a933240cb475451 1139 mx-repo-list_19.3.1.dsc
+ 011f021b94db20eadcdb3db7b866f9cd740d38c8a9217b0f0e57339d86fe1165 4832 mx-repo-list_19.3.1.tar.xz
+ ea516c8be00b4ea1ad83db57da0a286bed2f9c3db9d8128d83c82632e0dddd1d 5476 mx-repo-list_19.3.1_all.deb
+ 2127e3a223cdcea39a959aab83eb43c527061307b7b0d1873dcc5f4a00bb3a6e 5812 mx-repo-list_19.3.1_amd64.buildinfo
+Files:
+ 23fd6493bb427a2aee199ad1ad846f9e 1139 admin optional mx-repo-list_19.3.1.dsc
+ 6e58f8bf648cf34b696e3eea61d8e87c 4832 admin optional mx-repo-list_19.3.1.tar.xz
+ 503299f8871254341a3e3a59db7d8dad 5476 admin optional mx-repo-list_19.3.1_all.deb
+ 7b046e8a00a9a4ad6275f053753573a6 5812 admin optional mx-repo-list_19.3.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlyIhxMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHtZB/9UL/AyBlObXloHPuAXZo+Jiu9bwFym
+pjyBrR96c91sMxm9Pqd91LnxNq5ETcqwJkM5A1CAfYuIY/LEwvdL5EsbX040iPuK
+zuZyypalaTdgGDVO7EwMhHoTnaKsWc/1ItwM3RGmdgssHTvgz+Bk2TkF06B31JKg
+xNEG6KvkgPtHu8wugEVRhyY8XJM3rXyS1ypR9wjRf3QvemEA5skTUcJhYtHIEgz2
+5UfM71zqaZlvIgnp6i2bi8R5MyujZXIlKGgHT4039sup2jbkblVS4pVFxrCPxWbi
+Xn9m2fgclOcsoFJDByH3Ug6jk99D4aj0Kz+MIR4xQxkMZY9Qhw3l7J/N
+=r6rf
+-----END PGP SIGNATURE-----
