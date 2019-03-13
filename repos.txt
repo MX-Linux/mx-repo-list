@@ -9,7 +9,7 @@ Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
 Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
 Belgium, Brussels - https://ftp.belnet.be/mirror2/ftp.belnet.be/mxlinux/packages
-Belgium, Brussels - http://mirror.adct.be/mx
+Belgium, Brussels - http://mirror.adct.be/mx/packages
 Botswana, Gabarone - http://mirror.retentionrange.co.bw/mxlinux/packages
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
@@ -36,6 +36,7 @@ Czech Republic, Prague - https://ftp.sh.cvut.cz/mxlinux/packages
 Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
+France, Amiens - http://ftp.u-picardie.fr/pub/mxlinux
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
 France, Paris - https://mirrors.ircam.fr/pub/mx/packages
@@ -62,6 +63,9 @@ India, Haryana - https://mx.mirrors.estointernet.in/packages
 India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
 Indonesia, Banyuwangi - http://mirror.poliwangi.ac.id/mxlinux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
+Indonesia - http://mirror.deace.id/mxlinux
+Ireland, Dublin - http://mirror.strencom.net/mxlinux/packages
+Israel, Tel Aviv - https://mxlinux.aumix.com/mxlinux
 Italy, Padova - http://mirror.e4a.it/mx
 Italy, Rome - https://mirror.crazynetwork.it/mx-linux/packages
 Italy, Milan - http://it.mxrepo.com
@@ -88,6 +92,7 @@ New Zealand, Tauranga - http://mx.debian.nz
 New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines, Quezon City - https://mirror.pregi.net/mx-linux-packages
+Poland, Debica - http://mxlinux.inhost.pro/antix-workspace
 Poland, Tarnowskie Góry - http://mxlinux.slaskdatacenter.com/packages/mxlinux
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
@@ -137,6 +142,7 @@ United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
 United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
 United States, Salt Lake City UT - http://mxrepo.com
+Uganda, Kampala - http://mirror.renu.ac.ug/mxlinux
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Uzbekistan, Tashkent - http://mirror.dc.uz/mxlinux
