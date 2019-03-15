@@ -94,6 +94,7 @@ Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Philippines, Cebu City - http://mirror.rise.ph/mxlinux-pkg
 Philippines, Quezon City - https://mirror.pregi.net/mx-linux-packages
 Poland, Debica - http://mxlinux.inhost.pro/antix-workspace
+Poland, Gdańsk - http://ftp.task.gda.pl/site/mx-packages
 Poland, Tarnowskie Góry - http://mxlinux.slaskdatacenter.com/packages/mxlinux
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
