@@ -37,6 +37,7 @@ Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
 France, Amiens - http://ftp.u-picardie.fr/pub/mxlinux
+France, Montpellier - https://ftp.igh.cnrs.fr/pub/mxlinux.org/packages
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
 France, Paris - https://mirrors.ircam.fr/pub/mx/packages
