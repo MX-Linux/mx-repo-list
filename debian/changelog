@@ -1,3 +1,9 @@
+mx-repo-list (19.3.2) mx; urgency=medium
+
+  * new mirrors: France, Hungary, Poland, Philippines
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 22 Mar 2019 18:18:42 -0400
+
 mx-repo-list (19.3.1) mx; urgency=medium
 
   * new mirrors: France, Indonesia, Israel, Poland, Uganda

@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 22 Mar 2019 18:18:42 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 19.3.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (19.3.2) mx; urgency=medium
+ .
+   * new mirrors: France, Hungary, Poland, Philippines
+Checksums-Sha1:
+ 6306c46748b2cbff677ef4ce1d0ad38fb35edbfa 1139 mx-repo-list_19.3.2.dsc
+ f405d7a6674f4c4daf19e4f8178d71a448de917c 4912 mx-repo-list_19.3.2.tar.xz
+ e7075f7624d10eec55bb79184c2714105a36580b 5552 mx-repo-list_19.3.2_all.deb
+ 03e2ed5cadc3afad151e24ea10c3b925cccde78f 5812 mx-repo-list_19.3.2_amd64.buildinfo
+Checksums-Sha256:
+ ab4b362975520668aeec2f5757cc84fcfa3a6ad10200354e4fd24f28b8cc6324 1139 mx-repo-list_19.3.2.dsc
+ d9e346f4cdc29eb4cce513aa6d85f7e12e1f048955b9f2e72a73fa9fdd69d044 4912 mx-repo-list_19.3.2.tar.xz
+ 9db47fad2352dcfdc074338852e9ea7dee809c7310120a96eb7636b06e713c61 5552 mx-repo-list_19.3.2_all.deb
+ a621b4483eb1dd43812e9f2cb7c47cf808c2fb024a7e3eeaa09d730c61d45444 5812 mx-repo-list_19.3.2_amd64.buildinfo
+Files:
+ 222253c12509d8f4fad3d35df8d052ab 1139 admin optional mx-repo-list_19.3.2.dsc
+ 1b088ab9da643cf8ac3bcfa605184d2c 4912 admin optional mx-repo-list_19.3.2.tar.xz
+ 5d651b5424bad548dad2275257b65122 5552 admin optional mx-repo-list_19.3.2_all.deb
+ ab5ca00a9ec6295e4a3dbf20c6749ea7 5812 admin optional mx-repo-list_19.3.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlyVX4QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumD4fCACbgJIrOHlt5KE0CnnwzI5CjSoxGxmU
+bWUNs83rYxEb/PYwCpD8BfAFisX2QqBjSsK1s8c3YaIybZmky870WTKuHITf3Jfw
+zE7ZsWPlzQj+/fC5hf/32pKpzIU2JpygGUc6feZKZXLaO2c0a9GC2WVZQfrP52FW
+q8k0gPWfa3f/kZM6jwQrzJQGAl9U67AkGZPQwVVpGs5s4EmUnzpzkZpAb6gZVQoU
+xMIxKPtu0gzs3LF9u3CDnmPzBmWtliLe6gXSHMLQ2acLYy/5gPa/Ws2zyyOkFrPT
+xMx/NbYx070rAxNmdq3HESFmonQ5KpiM16BsqsArs9n17UNpeU+y3Dex
+=iFFQ
+-----END PGP SIGNATURE-----
