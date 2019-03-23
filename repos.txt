@@ -37,6 +37,7 @@ Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
 France, Amiens - http://ftp.u-picardie.fr/pub/mxlinux
+France, Montpellier - https://ftp.igh.cnrs.fr/pub/mxlinux.org/packages
 France, Lyon - http://mirror.ibcp.fr/pub/mxlinux/workspace
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
 France, Paris - https://mirrors.ircam.fr/pub/mx/packages
@@ -57,6 +58,7 @@ Greece, Athens - https://foss.aueb.gr/mirrors/linux/mxlinux
 Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
 Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
+Hungary, Budapest - https://ftp.gtx.hu/mxlinux/packages
 Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
@@ -91,8 +93,10 @@ New Caledonia, Nouméa - http://mirror.lagoon.nc/pub/mxlinux
 New Zealand, Tauranga - http://mx.debian.nz
 New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
+Philippines, Cebu City - http://mirror.rise.ph/mxlinux-pkg
 Philippines, Quezon City - https://mirror.pregi.net/mx-linux-packages
 Poland, Debica - http://mxlinux.inhost.pro/antix-workspace
+Poland, Gdańsk - http://ftp.task.gda.pl/site/mx-packages
 Poland, Tarnowskie Góry - http://mxlinux.slaskdatacenter.com/packages/mxlinux
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
