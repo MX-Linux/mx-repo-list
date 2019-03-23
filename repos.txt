@@ -58,6 +58,7 @@ Greece, Athens - https://foss.aueb.gr/mirrors/linux/mxlinux
 Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
 Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
+Hungary, Budapest - https://ftp.gtx.hu/mxlinux/packages
 Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
 India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 India, Haryana - https://mx.mirrors.estointernet.in/packages
