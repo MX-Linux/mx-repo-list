@@ -48,13 +48,13 @@ Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Bochum - https://linux.rub.de/mxlinux/packages
 Germany, Chemnitz - http://ftp.tu-chemnitz.de/pub/linux/MX/Repo
 Germany, Cologne - http://mirror.plusserver.com/mxlinux/mxlinux
-Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
+Germany, Frankfurt - https://mirror.23media.com/mx-packages
 Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
 Germany, Hamburg - https://mxlinux.mirror.iphh.net/packages
 Germany, Karlsruhe - https://mirror.eu.oneandone.net/linux/distributions/mx/packages
+Germany, Landshut - http://mirror.funkfreundelandshut.de/mxlinux/packages
 Greece, Athens - http://ftp.ntua.gr/pub/linux/mxlinux
-Greece, Athens - https://foss.aueb.gr/mirrors/linux/mxlinux
 Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
 Hong Kong, xTom - https://mirrors.xtom.com.hk/mx-packages
