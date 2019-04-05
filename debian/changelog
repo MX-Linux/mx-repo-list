@@ -1,3 +1,9 @@
+mx-repo-list (19.4) nx; urgency=medium
+
+  * new mirror: Frankfurt
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 05 Apr 2019 12:00:01 -0400
+
 mx-repo-list (19.3.2) mx; urgency=medium
 
   * new mirrors: France, Hungary, Poland, Philippines
