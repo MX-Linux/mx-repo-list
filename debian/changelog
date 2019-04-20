@@ -1,3 +1,9 @@
+mx-repo-list (19.4.1) mx; urgency=medium
+
+  * add Paraguay, remove Mexico mirror
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 20 Apr 2019 09:45:03 -0400
+
 mx-repo-list (19.4) nx; urgency=medium
 
   * new mirror: Frankfurt
