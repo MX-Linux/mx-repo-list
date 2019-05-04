@@ -113,6 +113,7 @@ Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 South Korea, Busan - http://ftp.harukasan.org/mxlinux
 South Korea, Daejeon - http://ftp.kaist.ac.kr/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
+Sweden, South - https://mirror.operationtulip.com/mxlinux/mx-packages
 Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
