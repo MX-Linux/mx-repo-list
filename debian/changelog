@@ -1,3 +1,9 @@
+mx-repo-list (19.6) mx; urgency=medium
+
+  * new mirrors: Sweden, China
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 15 Jun 2019 17:55:31 -0400
+
 mx-repo-list (19.4.1) mx; urgency=medium
 
   * add Paraguay, remove Mexico mirror
