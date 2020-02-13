@@ -19,6 +19,7 @@ Bulgaria, Sofia - https://mxlinux.ipacct.com/MX-Packages
 Canada, Edmonton - http://mirrors.switch.ca/mx-packages
 Canada, Halifax - http://mirror.its.dal.ca/mxlinux
 Canada, Manitoba - https://muug.ca/mirror/mx-packages
+Canada, Montreal - http://mx-linux-packages.mirror.globo.tech
 Canada, Montreal - http://mirror.cedille.club/mx-linux
 Canada, Toronto - http://mirror.utoronto.ca/mxlinux
 Canada, Vancouver - http://mirror.it.ubc.ca/mxlinux
