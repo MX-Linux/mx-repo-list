@@ -9,7 +9,7 @@ Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Azerbaijan, Baku - http://mirror.datacenter.az/mxlinux
 Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
 Belgium, Brussels - https://ftp.belnet.be/mirror2/ftp.belnet.be/mxlinux/packages
-Belgium, Brussels - http://mirror.adct.be/mx/packages
+Belgium, Brussels - http://mirror.tiguinet.net/mx/packages
 Botswana, Gabarone - http://mirror.retentionrange.co.bw/mxlinux/packages
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
