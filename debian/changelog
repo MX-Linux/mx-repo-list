@@ -1,3 +1,9 @@
+mx-repo-list (20.6) mx; urgency=medium
+
+  * fixed UK repo
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 24 Jun 2020 22:48:47 -0400
+
 mx-repo-list (20.5) mx; urgency=medium
 
   * revised offerred mirrors (removed those that haven't updated in a long time)
