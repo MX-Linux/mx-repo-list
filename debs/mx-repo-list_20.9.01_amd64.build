@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui
 dpkg-buildpackage: info: source package mx-repo-list
-dpkg-buildpackage: info: source version 20.9
+dpkg-buildpackage: info: source version 20.9.01
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build .
@@ -12,8 +12,8 @@ dh: Compatibility levels before 9 are deprecated (level 7 in use)
 dh_clean: Compatibility levels before 9 are deprecated (level 7 in use)
  dpkg-source -b .
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building mx-repo-list in mx-repo-list_20.9.tar.xz
-dpkg-source: info: building mx-repo-list in mx-repo-list_20.9.dsc
+dpkg-source: info: building mx-repo-list in mx-repo-list_20.9.01.tar.xz
+dpkg-source: info: building mx-repo-list in mx-repo-list_20.9.01.dsc
  debian/rules build
 dh build
 dh: Compatibility levels before 9 are deprecated (level 7 in use)
@@ -41,9 +41,9 @@ dh_installdeb: Compatibility levels before 9 are deprecated (level 7 in use)
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'mx-repo-list' in '../mx-repo-list_20.9_all.deb'.
+dpkg-deb: building package 'mx-repo-list' in '../mx-repo-list_20.9.01_all.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../mx-repo-list_20.9_amd64.changes
+ dpkg-genchanges  >../mx-repo-list_20.9.01_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)

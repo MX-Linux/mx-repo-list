@@ -1,3 +1,9 @@
+mx-repo-list (20.9.01) mx; urgency=medium
+
+  * update New Caladonia 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 29 Sep 2020 20:52:57 -0400
+
 mx-repo-list (20.9) mx; urgency=medium
 
   * repo list updates (disable some, renable some) 

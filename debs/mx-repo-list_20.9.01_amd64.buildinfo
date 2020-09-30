@@ -2,19 +2,19 @@ Format: 1.0
 Source: mx-repo-list
 Binary: mx-repo-list
 Architecture: all source
-Version: 20.9
+Version: 20.9.01
 Checksums-Md5:
- db3dbcd3f33ef696f6bf052a33591dbf 569 mx-repo-list_20.9.dsc
- 62a85c7de7e154787b08f0a1934fcc60 6056 mx-repo-list_20.9_all.deb
+ d3d693e13f2c66d92249501ab3bc4ebb 581 mx-repo-list_20.9.01.dsc
+ 21baaf672b8094cf2dcf54c45592c2e3 6080 mx-repo-list_20.9.01_all.deb
 Checksums-Sha1:
- 9688ac02c79321bc15731572a630ea4dd38ea03f 569 mx-repo-list_20.9.dsc
- 3c949f2f273cc45b36cd476e86ff013defe91c3b 6056 mx-repo-list_20.9_all.deb
+ 609b307e4ae75a81cd9acd44e33d87b296a93c4e 581 mx-repo-list_20.9.01.dsc
+ 09d54ff60da8458b3968499d03daf2e1b547550c 6080 mx-repo-list_20.9.01_all.deb
 Checksums-Sha256:
- 5eadb891ce40abfbe4e88689e387ebf6298c3d50f939b78c00b4555c7f5c52f3 569 mx-repo-list_20.9.dsc
- 96662623f66f94413eff384a46fb6fef6e273b89ed8a6c65dbf6da1dbae4c9ef 6056 mx-repo-list_20.9_all.deb
+ 2220f057e2e221608115a10f40566ca18bef82c695009970895dbe5540cfbe3e 581 mx-repo-list_20.9.01.dsc
+ 5f9624a99e53190742aa72066ce195f736a44a2511c4f0916c67e5a4e0c8dcb9 6080 mx-repo-list_20.9.01_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 28 Sep 2020 21:42:31 -0400
+Build-Date: Tue, 29 Sep 2020 20:54:17 -0400
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -162,4 +162,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1601343688"
+ SOURCE_DATE_EPOCH="1601427177"
