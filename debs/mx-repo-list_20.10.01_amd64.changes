@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 14 Oct 2020 19:45:08 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 20.10.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (20.10.01) mx; urgency=medium
+ .
+   * bring back new zealand
+Checksums-Sha1:
+ 719b0de9a686e10c6fd4716de150ab9cfe08cb83 588 mx-repo-list_20.10.01.dsc
+ 1f12051a849f8181978076478374bfd445910aa2 19364 mx-repo-list_20.10.01.tar.xz
+ f3ff9535e84ac25f384576ad6537ed5d1c20c695 6120 mx-repo-list_20.10.01_all.deb
+ 0b48bcf7ae98cbb9c1685e686503ebae66f76dc6 4698 mx-repo-list_20.10.01_amd64.buildinfo
+Checksums-Sha256:
+ b7376188563f7b901365fb27cd1291bc65324a6e99bbf187b4f94815f6691894 588 mx-repo-list_20.10.01.dsc
+ 6ac9d314ba8d8f46709d415cf65d75b1ac693b0cc6cfa9a559ea87f11b76a2d6 19364 mx-repo-list_20.10.01.tar.xz
+ def08fea074f682d0362103612b5592f57d55591664062ec74ba1ae5fa86ad44 6120 mx-repo-list_20.10.01_all.deb
+ 32b4b5ce7d803e265ae6ffba3695b0781254d23ad5861dc9527d1a49cf744c22 4698 mx-repo-list_20.10.01_amd64.buildinfo
+Files:
+ 614c2f8317a89e6f2acf6d46e2f9d3af 588 admin optional mx-repo-list_20.10.01.dsc
+ f26b3b96e4d2811e702d18f659440c0c 19364 admin optional mx-repo-list_20.10.01.tar.xz
+ 7d51974c254551d768c6d8466687f8f8 6120 admin optional mx-repo-list_20.10.01_all.deb
+ 8efab55e7560ceb796305af99d13037c 4698 admin optional mx-repo-list_20.10.01_amd64.buildinfo
