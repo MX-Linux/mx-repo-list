@@ -93,7 +93,7 @@ Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 New Caledonia, Nouméa - http://mirror.lagoon.nc/mxlinux/
-#New Zealand, Tauranga - http://mx.debian.nz
+New Zealand, Tauranga - http://mx.debian.nz
 #New Zealand, Auckland and Christchurch - https://mx.mirrors.theom.nz
 #Pakistan, Hyderabad - http://mirrors.ges.net.pk/mxlinux
 Paraguay, San Lorenzo - http://mxlinux.mirror.py/mxlinux
