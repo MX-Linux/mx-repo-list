@@ -1,3 +1,9 @@
+mx-repo-list (20.11) mx; urgency=medium
+
+  * new mirror: Sweden, Kinna 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 01 Nov 2020 16:06:21 -0500
+
 mx-repo-list (20.10.01) mx; urgency=medium
 
   * bring back new zealand
