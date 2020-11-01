@@ -121,6 +121,7 @@ Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Madrid - https://mxlinux.redimadrid.es/MX-Packages
 #Spain, Vigo - http://ftp.uvigo.es/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
+Sweden, Kinna - https://ftpmirror1.infania.net/mirror/mxlinux/packages
 Sweden, South - https://mirror.operationtulip.com/mxlinux/mx-packages
 Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
