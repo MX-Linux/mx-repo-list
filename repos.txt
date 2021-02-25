@@ -16,6 +16,7 @@ Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace
 Brazil, Manaus - http://mirror.ufam.edu.br/mx
 Bulgaria, Sofia - https://mirrors.netix.net/mx/MX-Packages
 Bulgaria, Sofia - https://mxlinux.ipacct.com/MX-Packages
+Bulgaria, Sofia - http://mirror.telepoint.bg/mxlinux-repo
 #Canada, Edmonton - http://mirrors.switch.ca/mx-packages
 Canada, Halifax - http://mirror.its.dal.ca/mxlinux
 Canada, Manitoba - https://muug.ca/mirror/mx-packages

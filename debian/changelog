@@ -1,3 +1,9 @@
+mx-repo-list (21.2) mx; urgency=medium
+
+  * new mirror: Bulgaria, Sofia
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 25 Feb 2021 10:43:22 -0500
+
 mx-repo-list (20.11) mx; urgency=medium
 
   * new mirror: Sweden, Kinna 
