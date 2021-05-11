@@ -117,6 +117,7 @@ South Africa, Cape Town - https://ftp.saix.net/pub/linux/distributions/mxlinux
 South Korea, Busan - http://ftp.harukasan.org/mxlinux
 South Korea, Daejeon - http://ftp.kaist.ac.kr/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
+South Korea, Seo-gu - https://mirror.anigil.com/mxlinux
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Madrid - https://mxlinux.redimadrid.es/MX-Packages

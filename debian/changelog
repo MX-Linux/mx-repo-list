@@ -1,3 +1,9 @@
+mx-repo-list (21.5) mx; urgency=medium
+
+  * new mirror: South Korea, Seo-gu
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 11 May 2021 07:33:47 -0400
+
 mx-repo-list (21.2) mx; urgency=medium
 
   * new mirror: Bulgaria, Sofia
