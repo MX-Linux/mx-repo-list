@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 12 May 2021 09:10:15 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 21.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (21.5.01) mx; urgency=medium
+ .
+   * fix location
+Checksums-Sha1:
+ 7ed254507cff3a31d770e52ab877da39a644a5e6 1144 mx-repo-list_21.5.01.dsc
+ b607dbebeb297ca06037f0b090544df0b49a0ec1 5480 mx-repo-list_21.5.01.tar.xz
+ 73985c0760941706198b7a91f9c30e5e927bbf9d 6180 mx-repo-list_21.5.01_all.deb
+ ce81d3ca573d977aa62cb79f1f3304b6702fff57 5524 mx-repo-list_21.5.01_amd64.buildinfo
+Checksums-Sha256:
+ bc972a87d059a3e8333d546ed989c1911c0fdcc9be1db5b2c0769d59a89c0165 1144 mx-repo-list_21.5.01.dsc
+ ae2441b31b80b21c75846e5864f40db0bd961df91a4c625ac37e5e3764e8b9f4 5480 mx-repo-list_21.5.01.tar.xz
+ 375e167f42b8a3fc8be90ba2445101e0dc90b44c5feb27cadad3f9cc34809241 6180 mx-repo-list_21.5.01_all.deb
+ d81de08ba8350b2b92ea521ce5765965c441070ca877ffae1b174edc950f3aa5 5524 mx-repo-list_21.5.01_amd64.buildinfo
+Files:
+ b9a5e4d2617192711e903fa699d23176 1144 admin optional mx-repo-list_21.5.01.dsc
+ 4d2abf5e5d0848bea8d09c4eb70fb354 5480 admin optional mx-repo-list_21.5.01.tar.xz
+ 73daae03c584d9aa00499f61356ae01e 6180 admin optional mx-repo-list_21.5.01_all.deb
+ c1da9cddf436cd1e3d9869c3a36941f9 5524 admin optional mx-repo-list_21.5.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCb1D8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumB7YB/9YW0K9YXl73fUNyndcajipqi3GiB9M
++gQ83xyFq4dQ8WzOha88pZOsAVjPkO8NlC0JraiLnpOcowz2e7TQ2vHPZXHtHmfj
+Y9XbvGaEdfK4V85dibBAwnjO6SSKsnUsY45rkp4zagjcWusm/zUux2rENvU49PJm
+V7m64Z++rd6izG+t5iNcTydcugnGGnPpQulmi4kdoxCHsP/UMKxAeaSjxix08oPT
+SN3crO+iTQaH7bk/CMEOP+WjSSj0GlTv0btnCCNRmU+kqPStTitKX4WPdE1KnOZN
+FHZTGTSDka7EFcyxzgdkQ+T8Sq2cP4p7TkBi1twc1jKaP2qLYjTtzsq5
+=qdNe
+-----END PGP SIGNATURE-----

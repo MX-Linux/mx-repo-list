@@ -1,3 +1,9 @@
+mx-repo-list (21.5.01) mx; urgency=medium
+
+  * fix location
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 12 May 2021 09:10:15 -0400
+
 mx-repo-list (21.5) mx; urgency=medium
 
   * new mirror: South Korea, Seo-gu
