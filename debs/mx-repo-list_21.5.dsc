@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 10)
 Package-List:
  mx-repo-list deb admin optional arch=all
 Checksums-Sha1:
- 1d9325e3df5f858e2f0c71802e9eec9018fa68e7 5448 mx-repo-list_21.5.tar.xz
+ 92884c2706722723e04027e3d983d26f04c68359 5456 mx-repo-list_21.5.tar.xz
 Checksums-Sha256:
- 07c2f20d43f83dba9b80b83afbebdce5a95720725d2b4c96404df8c3b96454f3 5448 mx-repo-list_21.5.tar.xz
+ d1dbcb957425884fe6a0b57c269b756a8f11263f76edd2e74461ee8d612251a2 5456 mx-repo-list_21.5.tar.xz
 Files:
- 3df4962ce9b1700075f6b5ec4a6f9806 5448 mx-repo-list_21.5.tar.xz
+ 7b6ec332bad7554f6f0c70c1a857d3cf 5456 mx-repo-list_21.5.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCabIITHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOOxB/9VfB0rW9c4qQW7r8Hm+cfDNda6rxEK
-Asn39bByq4uN/o2oib803dFOq/6CxhZHCvvieBbJatE7EJCfLowk6fdFMPg+8Vii
-C5oTxVvsbA/XdfgTKAlsSH8CbkhoUWsoz7+ZkmqRdX27dyQsbPe0z+XQqP3DYWEb
-n0l0UWMg/Mta7B2GdwyQnsIYFZEjuJu5GmejZWrD8ZhTvcAK51lGnGrQA1q9AFtr
-W63KltLRYDX18uCXO1R5Ttb/TuJBCw4a6aKoO5l6j5mYPA3992Tc1nHoOGqkG7IH
-6MCLAdLtnsWsL2SxNeJPFUGWCE+B8+kiA5rWd/Bw4C5yAg12kC2aTmTD
-=mL97
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCb048THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPq5B/4nXEsIeINS161J2e8sUOyb8hwtYNjh
+gARqTePzFbAwt4xWPT/qMl/5rDSdQWvF4rIW0Y2C4FzSG/x/tqejqG2JmoyrA14q
+opvgKMZAOk4nGFdNEzLb/weAbLIhXhhGLwBTbO5IotLwUjAauxKnW9NIM56ZT9sG
+czfbGEwenDtVb3KiCoN/ID8/34d1ibq/Wzndoz2pIGTzHEd3Y5p+5JlHFErNYaNW
+MwqKeofF6f3/XqWU8BssO53kPC3/OjeTJ4GjImDnp+3YLcd6fvCL256bcu9R2O4K
+2623FqcZuRttc/MShjvNCXkEfX+X9b0xQspa21E46gGWfnhd8UVYNqum
+=bHwR
 -----END PGP SIGNATURE-----

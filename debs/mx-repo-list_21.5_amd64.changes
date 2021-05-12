@@ -18,29 +18,29 @@ Changes:
  .
    * new mirror: South Korea, Seo-gu
 Checksums-Sha1:
- d11f711a85bef930f6e9645c5804a37850d4e25e 1132 mx-repo-list_21.5.dsc
- 1d9325e3df5f858e2f0c71802e9eec9018fa68e7 5448 mx-repo-list_21.5.tar.xz
- 0237e4158e533e1e02d742f5f69e21e86dd6f843 6164 mx-repo-list_21.5_all.deb
- 2cdf7d685e7f1e01c185bb5de8f5e605592abd9a 5500 mx-repo-list_21.5_amd64.buildinfo
+ bd340a6636e187951367b8772c8efcbcce0d0cb5 1132 mx-repo-list_21.5.dsc
+ 92884c2706722723e04027e3d983d26f04c68359 5456 mx-repo-list_21.5.tar.xz
+ 3ca58b1a886fbd1196db31ab1438fed81799a1ee 6164 mx-repo-list_21.5_all.deb
+ 5f63a6260764d6da9ab0afb6c95ab85072a3ff94 5500 mx-repo-list_21.5_amd64.buildinfo
 Checksums-Sha256:
- da364651bf46c64273872378b5fa7cb470cb54ec05c2b3086f3ecfa5e6addf96 1132 mx-repo-list_21.5.dsc
- 07c2f20d43f83dba9b80b83afbebdce5a95720725d2b4c96404df8c3b96454f3 5448 mx-repo-list_21.5.tar.xz
- c1570e8dbce2db3c873bb738f2ac01adb1e4efe794cc6017749ae63e7694b079 6164 mx-repo-list_21.5_all.deb
- aa96bcead2c070a1d30d9cbe758c6556f25f0209cf4559586ca58996c7c1fc50 5500 mx-repo-list_21.5_amd64.buildinfo
+ 3f7a8a759e88cf3155b1e83abe9135cb1a99979607c07a64535f14af68d98480 1132 mx-repo-list_21.5.dsc
+ d1dbcb957425884fe6a0b57c269b756a8f11263f76edd2e74461ee8d612251a2 5456 mx-repo-list_21.5.tar.xz
+ 972aedd264c66bc7860bcca32ded6e95efe74f5e15fbfb98a58bcb7bbb02b97e 6164 mx-repo-list_21.5_all.deb
+ d605d96d1b5e9dd276f5cf4b512c397cc27c31ab7f04a59bed0b1dd677090a3f 5500 mx-repo-list_21.5_amd64.buildinfo
 Files:
- 40066abab55398c08e313917258589a6 1132 admin optional mx-repo-list_21.5.dsc
- 3df4962ce9b1700075f6b5ec4a6f9806 5448 admin optional mx-repo-list_21.5.tar.xz
- ecceb94b430dce285d5381456f95ea47 6164 admin optional mx-repo-list_21.5_all.deb
- 811790641eda381d4ed445ff690d52a7 5500 admin optional mx-repo-list_21.5_amd64.buildinfo
+ 5478664eb3725422931d466246963251 1132 admin optional mx-repo-list_21.5.dsc
+ 7b6ec332bad7554f6f0c70c1a857d3cf 5456 admin optional mx-repo-list_21.5.tar.xz
+ fef8e763fddee7834ff377e86dccc865 6164 admin optional mx-repo-list_21.5_all.deb
+ 6fe57e494f0b683c50963f45a12a0641 5500 admin optional mx-repo-list_21.5_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCabIYTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDT9CAC58S7uWYDkKrcziAohUyEUdmFuEk6Y
-eQtMXEzRHv6sPow3XeFX+EEppRixfijgYpHhwTqIIB0msH7r06jyX4xIvKNYiYX1
-scs/fFPVHn8ZIh03VOFgNqsUgBpU7A01fU4BJW7KCE1CfwhN9pdpQFoSAam1wXcC
-ysl+CfDR4Qtx8Xx0LrbEpqVLFMKRV/r/5ewQ+Q2jDcYpdLit1b6u8YIHRfo47Lzt
-BS9Svdqn0PEWXOzIdwBi2S6x9Ogxzrq7oUXmfbhkHA0Ry10l17PHc/EIY/hDl5u3
-AEMbF3hCWm8wRp/yRH0Rq+neAtRq7z962KJW5C5Xs1igiaaKcz2E0iVB
-=z1eM
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCb05QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAeBB/9FXYSYqfBYzv7I/eoi4/+BhSufMYIE
+DbFo1LSKsskfrm3jirRHeuzO/Swmi2ICbeI3uhn7/6cWP4aWij+uBRfWZgoqlmqZ
+oypAxZMGBgipx6fuEvz66E8R22l6zDQAQ79wQtHGWVJ85cvKS8Y8iR0aqPnodlYb
+a9jOKKS5KxPFTSEKyzpglcXl3vSu5G61tRoaU2B/z4TFR9og00oZAlQET2KLPSjP
+6osg28ItxDdGofMVqgfz7M6O+JhOHEuzNY/dNHrnkZKyYKOpvAuaAr7pgFfwdKKQ
+QbDM6nnzu/aLiOIrxF291ZtyrYzkc4ZdSOm2beqFUrhEglrEnXVk3ZvF
+=ZZ5d
 -----END PGP SIGNATURE-----
