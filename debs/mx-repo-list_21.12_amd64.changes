@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Dec 2021 10:22:43 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 21.12
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (21.12) mx; urgency=medium
+ .
+   * New mirror: Singapore
+Checksums-Sha1:
+ d234c22a8749cc56d312106d2be5c12e96cf6964 1136 mx-repo-list_21.12.dsc
+ 6673c30d1c70696563d309bb816dc2df643f5333 5556 mx-repo-list_21.12.tar.xz
+ 11320594155ac3ae86d405ab49e42e224b03ec3e 6360 mx-repo-list_21.12_all.deb
+ ebc4ebc6263b79aaef1cb4b262bdf966fa5bdcc6 5094 mx-repo-list_21.12_amd64.buildinfo
+Checksums-Sha256:
+ cb1deba27b095433bad374d15a4db37f85ae1c5ffd29648d873d819f667d51b6 1136 mx-repo-list_21.12.dsc
+ a40998e50eae966791d88252d62902a57152185be79878272237b0021d36b11d 5556 mx-repo-list_21.12.tar.xz
+ a29639ec602db5b83986b7378eaeb123f5ade94bf2f933b396ff1cc0979b18ae 6360 mx-repo-list_21.12_all.deb
+ e1f9926f2ebd0a13a15c795618cd6e0327c7500c336970d60cbede21e344ef70 5094 mx-repo-list_21.12_amd64.buildinfo
+Files:
+ 3ca8ffa22c97bcd7d8a7dcbc244312cf 1136 admin optional mx-repo-list_21.12.dsc
+ cd1d5417ee0fdfa910e7908141caf9d9 5556 admin optional mx-repo-list_21.12.tar.xz
+ 65b336fa78eab8c02d6829fa473b67f3 6360 admin optional mx-repo-list_21.12_all.deb
+ 4946ca630e7f371009175140e0aa77b6 5094 admin optional mx-repo-list_21.12_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmGs2bYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLB7B/4/kMK7r4qYyqox2uRFKx34p8YOr7uv
++MB5WVXl7lwBI+bRRvpv8w7tFxssiwVNlIoogC5bKgWti80wrf5t9x5yME/PmjNL
+zeBq7OHSdrfemceflTT1deXsGlHNZqDCfxAZp2T4rvQOYMHlKXaecBMFfeGDbsp+
+IEIfGkjfyHph+zzcGMBBOxl8a70RtmaMCHoDSZj1sFaDYFTjeZTrxgXu6HV+1SGw
+FdAiPHVG0s4v+Fb84i7YaDu6TIRZi/YwPwFGY1Jg0PmG6/IK+5zxlwr8n68NQRxv
+F1phh8Mb+7I8YuaapfuLb3SAulMU9VUPc53B7U0MdHLpwA5WZpxiDMTS
+=2QV6
+-----END PGP SIGNATURE-----

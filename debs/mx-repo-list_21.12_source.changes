@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Dec 2021 10:22:43 -0500
+Source: mx-repo-list
+Architecture: source
+Version: 21.12
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (21.12) mx; urgency=medium
+ .
+   * New mirror: Singapore
+Checksums-Sha1:
+ d234c22a8749cc56d312106d2be5c12e96cf6964 1136 mx-repo-list_21.12.dsc
+ 6673c30d1c70696563d309bb816dc2df643f5333 5556 mx-repo-list_21.12.tar.xz
+ ebc4ebc6263b79aaef1cb4b262bdf966fa5bdcc6 5094 mx-repo-list_21.12_amd64.buildinfo
+Checksums-Sha256:
+ cb1deba27b095433bad374d15a4db37f85ae1c5ffd29648d873d819f667d51b6 1136 mx-repo-list_21.12.dsc
+ a40998e50eae966791d88252d62902a57152185be79878272237b0021d36b11d 5556 mx-repo-list_21.12.tar.xz
+ e1f9926f2ebd0a13a15c795618cd6e0327c7500c336970d60cbede21e344ef70 5094 mx-repo-list_21.12_amd64.buildinfo
+Files:
+ 3ca8ffa22c97bcd7d8a7dcbc244312cf 1136 admin optional mx-repo-list_21.12.dsc
+ cd1d5417ee0fdfa910e7908141caf9d9 5556 admin optional mx-repo-list_21.12.tar.xz
+ 4946ca630e7f371009175140e0aa77b6 5094 admin optional mx-repo-list_21.12_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmGs2bcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFn2B/4vrMENfqr5PEc9cmeLM+ZChLHcEN6Z
+0gBXyIIknah/uQRcCTx5tDdCPjKJC4ste+qMZVUXmZZO/XqdByXPVBftn7AzllMp
+B9xXKhdtVug+dpVSz8UUbS6wml3x0/+sDMw7shewiQSkopykPg4AFY0jL1BKD4d+
+P03iL8V7Ja/E12sGw/KrTaKfraTVBKkkyj5vgRnB5gQIcLnn1CPCQdo25Pr0BDAH
+VDoZ1cFFYHYwAmWYDcl0W8FfAZfa5ZvXh+4BmtwhtEdjs4snewrPco2jN6s2Khi9
+NjLtR2+yd/HFq2rmaI5racoSQz/VNh+HGxr9xcaPWvywgiGqX48TD3Nv
+=g6t6
+-----END PGP SIGNATURE-----

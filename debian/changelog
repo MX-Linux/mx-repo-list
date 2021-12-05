@@ -1,3 +1,9 @@
+mx-repo-list (21.12) mx; urgency=medium
+
+  * New mirror: Singapore
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 05 Dec 2021 10:22:43 -0500
+
 mx-repo-list (21.7) mx; urgency=medium
 
   * Update 23media -> 23m
