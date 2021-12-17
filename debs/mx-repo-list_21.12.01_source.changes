@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 17 Dec 2021 15:57:19 -0500
+Source: mx-repo-list
+Architecture: source
+Version: 21.12.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (21.12.01) mx; urgency=medium
+ .
+   * New Mirror: China, Alibaba Cloud
+Checksums-Sha1:
+ 2ad5bab1fb646bdf47f505f2b96748202a6dd251 1148 mx-repo-list_21.12.01.dsc
+ ddc0cdf6542d79ca8457df76252e26a34e128c8f 5600 mx-repo-list_21.12.01.tar.xz
+ 3384c3336d3fc0a7e4b8be7c6975869d1832c5a6 5118 mx-repo-list_21.12.01_amd64.buildinfo
+Checksums-Sha256:
+ 70cfc9edeb39ca83d215227e6b4605841e523e57cf3d4977dfb28f7272d28695 1148 mx-repo-list_21.12.01.dsc
+ 2054549462424916ddd2be65ae3ac965894d57bc590e38137b6734ca930f36da 5600 mx-repo-list_21.12.01.tar.xz
+ 00b01a266c95026eaf963f131671125874009b3000004969bc5710bd3c8479b9 5118 mx-repo-list_21.12.01_amd64.buildinfo
+Files:
+ a2f55b6180b487f2a432383950295969 1148 admin optional mx-repo-list_21.12.01.dsc
+ 321d92bff0ad3d856b950b4b5dabaea5 5600 admin optional mx-repo-list_21.12.01.tar.xz
+ 90f89e5c071d3aeaa4534f594bc10c71 5118 admin optional mx-repo-list_21.12.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmG8+hgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAtIB/0RS2mUzb5fXwOirpNptVTP6OgDJtJG
+m4Mclfn+tC1Qm7o0nSOOnvJTw/41YUU+Np5uyq3RM+PiyrwX4R69VXWdQ/CZHvPo
+apGcYibTQFuGsJ/u/dvJlj+3I1UuqwYvh3GkAI91u3xmVpBE4ZHDU1HIJG8c6vNx
+v0p6FT+O5MPhGk/deEx1hLLb0PSbwVBU5zwLqyFCfUhwnvUp57hIJyKQA70t/vu1
+bc6hiJXo560O2zttgx0g1XGZlgeS0+ml9+xX/1HKVqskTxFz7oxbgt6G1hiaSsao
+n/vQsYxJdM3hzwmAxB0Vh2kajiG5w2Qp7yseD4loBOn9Kki3bbOmNsr6
+=AGi0
+-----END PGP SIGNATURE-----

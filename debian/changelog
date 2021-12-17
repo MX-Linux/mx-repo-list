@@ -1,3 +1,9 @@
+mx-repo-list (21.12.01) mx; urgency=medium
+
+  * New Mirror: China, Alibaba Cloud
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 17 Dec 2021 15:57:19 -0500
+
 mx-repo-list (21.12) mx; urgency=medium
 
   * New mirror: Singapore

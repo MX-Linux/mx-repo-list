@@ -27,6 +27,7 @@ Canada, Vancouver - http://mirror.it.ubc.ca/mxlinux
 Canada, Waterloo - https://mirror.csclub.uwaterloo.ca/mxlinux
 Chile, Santiago - http://mirror.netlinux.cl/mxlinux
 Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
+China, Alibaba Cloud - https://mirrors.aliyun.com/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
