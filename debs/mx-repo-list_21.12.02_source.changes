@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 31 Dec 2021 01:26:05 -0500
+Source: mx-repo-list
+Architecture: source
+Version: 21.12.02
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (21.12.02) mx; urgency=medium
+ .
+   * Remove Anycast Evowise repo; doesn't seem to work
+Checksums-Sha1:
+ fabd43b9d0d1e0b256fc5ffdc1cd66151e4af072 1148 mx-repo-list_21.12.02.dsc
+ d947ba32264d1089ed2fbcbc5789be4cd4f5709d 5600 mx-repo-list_21.12.02.tar.xz
+ 8f436cb1f36fb5ed407ab1f4a02b1cad1187441e 5118 mx-repo-list_21.12.02_amd64.buildinfo
+Checksums-Sha256:
+ a0c2282ce393ddec49ec9e7045a186a4e9d429043cde83bf0d87dc9f603a1838 1148 mx-repo-list_21.12.02.dsc
+ 02c3c16ac0e7ff676a615c445955fd1f460d56c375e4caedfe0ac3213805d9e6 5600 mx-repo-list_21.12.02.tar.xz
+ 88bf3c67e3a789c99bc80964773ceccf5f9000e65fe4f94d2045601cb9c6ae31 5118 mx-repo-list_21.12.02_amd64.buildinfo
+Files:
+ 69aee0728d675e9f5c4a760e7a5c93ad 1148 admin optional mx-repo-list_21.12.02.dsc
+ c6428b7ff359ce33b63cbebcbdd90988 5600 admin optional mx-repo-list_21.12.02.tar.xz
+ 99d1f3be60fb02cb9be16e3bdb3ef2f4 5118 admin optional mx-repo-list_21.12.02_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmHOosATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMsYB/9GV4j3youTJBKm467DHl+9wRbU+52m
+nhxl0+au4SDxNWn2+5c2Ey/9cKZ0EFZpJkgvLgCIxUFEgiA5VJs3SI24oxuJNe8A
+VCtV2mq6d8VqSRlz1XQGrufh1cmF4pKItrwFId6+V5iZg7lbd46ubU7a7u4ug9jy
+alVKclaRSn9iubvAdszUT/ZLVQZTtTkqH98RfTpQKKvtc17351dpTZTI9DdTlOj5
+e/widnrXR/XhaZJCyPohZT70DetTWLjP2oDrinbA5ZIJbbc4mCYAxKuUorkYv2Ba
+MqQDEvkWDCafGMu9ZWIvBqMDTTA1xnND0hgdQrKdAVGouzL919Abg+Li
+=QWXH
+-----END PGP SIGNATURE-----
