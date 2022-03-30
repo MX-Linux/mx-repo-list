@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 29 Mar 2022 23:33:26 -0400
+Source: mx-repo-list
+Architecture: source
+Version: 22.3
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (22.3) mx; urgency=medium
+ .
+   * Add Tehran repo.
+Checksums-Sha1:
+ 8a29b990c4bd5e847807e05c0b4bc2b43e3b5406 1132 mx-repo-list_22.3.dsc
+ ffa2791999b014c8b921cd324aa4f681202da0a5 5648 mx-repo-list_22.3.tar.xz
+ 23363e829708bb8b1166d52a32978ae6b5f882e4 5086 mx-repo-list_22.3_amd64.buildinfo
+Checksums-Sha256:
+ 1b695564b94edbb83f8485992311901bf5e9d4303704c39e25b17d26ccb167eb 1132 mx-repo-list_22.3.dsc
+ 0f00edf96ac3847dab20e2b9cd7ea4e69df4a3474173a66b2a37a6ad330afd9e 5648 mx-repo-list_22.3.tar.xz
+ d548fa9d2c8192325eb9459168e75218d85a962400839a0bd6c48add6ae47058 5086 mx-repo-list_22.3_amd64.buildinfo
+Files:
+ bd675879cfee910a96d655acb4d5bc1a 1132 admin optional mx-repo-list_22.3.dsc
+ bfaf25ae20744363bcac22007f3531e7 5648 admin optional mx-repo-list_22.3.tar.xz
+ fcc297865a758e43861715ac918ed96c 5086 admin optional mx-repo-list_22.3_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJD0AkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumArlCACUW/z7gINSyb0UxFijIcWoSAg8r9Q3
+AdS0jhyhhWN/DM6EV1T/7jnI3w97LnGtGCNDmeruUXRn8RwXwXyGKNwD97+bQtyb
+Qcrf9NKOTxQjtw1DO6D3mxc56NEXFxdS0rkANHSV2n2wmiV/H7YqY9fxrZSP0Rs+
+mt4RepwpSmShVBc9rNbGdKZ4N2+sWEhs2WPlXCROhIPdMdNTbo3y2wfeWmN48ugx
+Le7WYo86LeJAfCnA/bvkkuvSfDKKlIE9M+VyIf/VCy5DVOWq3CFWfNKNnQe74O3P
+vEwlYuPCxGrUNXgIRM5TZHJkRFpfzu6lLowu8IoyBOrJdM13ouqvRyMB
+=bLGj
+-----END PGP SIGNATURE-----

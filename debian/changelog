@@ -1,3 +1,9 @@
+mx-repo-list (22.3) mx; urgency=medium
+
+  * Add Tehran repo.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 29 Mar 2022 23:33:26 -0400
+
 mx-repo-list (21.12.02) mx; urgency=medium
 
   * Remove Anycast Evowise repo; doesn't seem to work
