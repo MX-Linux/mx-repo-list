@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 30 Apr 2022 10:11:36 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 22.4.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (22.4.01) mx; urgency=medium
+ .
+   * New Mirror: Portugal, Lisbon
+Checksums-Sha1:
+ 60a29c501c8ee060aab7458f76e2d56260d7263f 1144 mx-repo-list_22.4.01.dsc
+ 405750ba707e49e22469ea8835a7ad71fd2ef081 5716 mx-repo-list_22.4.01.tar.xz
+ d433fb204e43301ee90820b33507c593f9efbcf0 6540 mx-repo-list_22.4.01_all.deb
+ e45fe2ce99811023deff6849a836bca67913c54a 5110 mx-repo-list_22.4.01_amd64.buildinfo
+Checksums-Sha256:
+ 611254dac3d826a185eb6539f2baf553100a5aba25404d8c75a7dc74f6de2bcb 1144 mx-repo-list_22.4.01.dsc
+ f313d56a5dc423a08a464ee302159be965cb6df5e0f9c8508645309018b556fb 5716 mx-repo-list_22.4.01.tar.xz
+ fa3f0e0d7b0cadfa7d42acf3fb1bf3528055fd3dc5f1eafd003a6347fec0141b 6540 mx-repo-list_22.4.01_all.deb
+ 459ac2e4a3b1323d990183719f45b8a40785d658231388ec45383636d59927ce 5110 mx-repo-list_22.4.01_amd64.buildinfo
+Files:
+ 57170a750f6a7d2b1821a7dd926bb57a 1144 admin optional mx-repo-list_22.4.01.dsc
+ c55d10f73c6d3361b811fa772a202933 5716 admin optional mx-repo-list_22.4.01.tar.xz
+ 4bc1cd9fc4d2662c3f0c4d18c57581a1 6540 admin optional mx-repo-list_22.4.01_all.deb
+ 186d5fdf20a158a2870ce2075c1d4460 5110 admin optional mx-repo-list_22.4.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJtQ9QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNNlCACchf+lrAQtN952Lk3UeRhNBCBChtZl
+B1JypD/rMww/SAo4saEw4DaOocqgk/qmweyOlpfJpprmHoAceHl2xw+wya6mxHWD
+tSpJ9AzHFdJxAgvLAtIDguY9MOa01ctYT6AZeDbAKIXBgrh89MjVo9v0v+ba9+0V
+L0CzCBEAnsy9yKk/a68utGmz/1FikXQ+2wJD1J52QgRqWnXLM3mYoPV4rdGmKLdE
+hT0QEqBtlYt7SDLkkEAOVcaeMBRrmlka5rgtzl9JFNuEDrGje6sacQ1ade7BswAQ
+buQPd+3vf/lpU34zGBRN3rBWmuV04SMino0+N/4ZMHEbw5Vdmsf7+eJB
+=fvWR
+-----END PGP SIGNATURE-----

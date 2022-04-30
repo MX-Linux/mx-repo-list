@@ -112,6 +112,7 @@ Poland, Gdańsk - http://ftp.task.gda.pl/site/mx-packages
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
 Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
 Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
+Portugal, Lisbon - https://ftp.rnl.tecnico.ulisboa.pt/pub/mxlinux-packages
 Romania, Bucharest - https://mirrors.pidginhost.com/mx-linux/packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
 Russia, Moscow - https://mirror.yandex.ru/mirrors/MX-Linux/MX-Packages
