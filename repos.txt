@@ -147,6 +147,7 @@ United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
 United Kingdom, Manchester - https://mirrors.ukfast.co.uk/sites/MX_antiX_packages
 United Kingdom, Rothwell - http://mirrors.gethosted.online/mxlinux/packages
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
+United States, Brekeley, CA - https://mirrors.ocf.berkeley.edu/mx-packages
 United States, Chicago IL - https://mirror.genesisadaptive.com/mxlinux
 United States, Fremont CA - https://mirrors.xtom.com/mx-packages
 United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
