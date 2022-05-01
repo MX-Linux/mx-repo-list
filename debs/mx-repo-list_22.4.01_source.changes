@@ -15,26 +15,26 @@ Changes:
  .
    * New Mirror: Portugal, Lisbon
 Checksums-Sha1:
- 60a29c501c8ee060aab7458f76e2d56260d7263f 1144 mx-repo-list_22.4.01.dsc
- 405750ba707e49e22469ea8835a7ad71fd2ef081 5716 mx-repo-list_22.4.01.tar.xz
- e45fe2ce99811023deff6849a836bca67913c54a 5110 mx-repo-list_22.4.01_amd64.buildinfo
+ 3bb2e996e5198bbdf37f764707674a3a38fa7419 1144 mx-repo-list_22.4.01.dsc
+ 63afef723e611a9eaa3686f494c7490fedeaccca 5732 mx-repo-list_22.4.01.tar.xz
+ 384bdc81e3e75f0065e64b6f4b9feb10fd7e4a19 5110 mx-repo-list_22.4.01_amd64.buildinfo
 Checksums-Sha256:
- 611254dac3d826a185eb6539f2baf553100a5aba25404d8c75a7dc74f6de2bcb 1144 mx-repo-list_22.4.01.dsc
- f313d56a5dc423a08a464ee302159be965cb6df5e0f9c8508645309018b556fb 5716 mx-repo-list_22.4.01.tar.xz
- 459ac2e4a3b1323d990183719f45b8a40785d658231388ec45383636d59927ce 5110 mx-repo-list_22.4.01_amd64.buildinfo
+ d427f722bab25693145b1208b97e8003cfd109fa5ec0eaffa54bb7633f40afab 1144 mx-repo-list_22.4.01.dsc
+ ee0758c080298a77bc9d3750eece23bbb06fb9c6d6096d82524c6275efae06f2 5732 mx-repo-list_22.4.01.tar.xz
+ 935ca1ef1fca7448075460bb00e1aed7588edee0648bb485488f8a853e3ae9ed 5110 mx-repo-list_22.4.01_amd64.buildinfo
 Files:
- 57170a750f6a7d2b1821a7dd926bb57a 1144 admin optional mx-repo-list_22.4.01.dsc
- c55d10f73c6d3361b811fa772a202933 5716 admin optional mx-repo-list_22.4.01.tar.xz
- 186d5fdf20a158a2870ce2075c1d4460 5110 admin optional mx-repo-list_22.4.01_amd64.buildinfo
+ c1c342dc9329a33645bcce531c11abfd 1144 admin optional mx-repo-list_22.4.01.dsc
+ 491c3fe53101f4e758eca45b8d097e83 5732 admin optional mx-repo-list_22.4.01.tar.xz
+ 5e57085b167f1ce469b4d5889416b10c 5110 admin optional mx-repo-list_22.4.01_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJtQ9UTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDZRB/0UeM+8dt1RUXir1MMQ7OmZQ6GhW7X3
-AAvwkMvgyVt7+Xm7hdpffOEX18UfF6qS73epizUFGZKic52UuLuOBawgLQGv0ywo
-YHYfV1Zn6dPtpNSxa76ZucOj4/P4y/EAH7kJV5rTzKgqTFv9bOnRyX+JdDl2dVWB
-h+fxSuLqqUp0s5AXfUVhEEwI+rGh7zfdkS1ut8vpZuPfwxYSguYuVUSvBlCqR2zk
-M1j7aHe94DCdusxdSNp2G358XzhYzrn11y+SQ20qUm8zrC/OUhgp38kAuLSjIaau
-q9Sq9FtgfhTnb4HZ+LaqHtYf4C0fT42hQ9z1JoF/UTjtzds8ij0efx2r
-=kfwm
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJultYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMPjB/0VweWbLUzjQ1EdF/AUpHpJGTxGpIFn
+wozdNd9eeptq2js1S1mrRpB308SimPjhYm2IJEDqwL8jTCv+3gdf7pqhFJP1BITg
+QoBgt2L7TRN0WxyFBt277hclkWGm5wjOcxJgFl69Bcb09J3JruJVeldQaR+upajM
+9WBN1HI60pElZCSDNmySCC96JJUiJHfh52LJKVIX0yCtMZPTcsyc/C6+ViH5Fld1
+Dc3Zr578DyX1IIOOpc2hlOSCyBe0h9rxdud/adwmkniyOH1GqsivdP2aEew2fyeQ
+cto4jLwXfczX4uauLQeku6OVFNEuOu+YKPXfdDaPT3vyVI9DlQPlM8XT
+=Fp4v
 -----END PGP SIGNATURE-----
