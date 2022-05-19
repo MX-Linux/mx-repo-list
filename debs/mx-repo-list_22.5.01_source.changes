@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 19 May 2022 11:52:57 -0400
+Source: mx-repo-list
+Architecture: source
+Version: 22.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (22.5.01) mx; urgency=medium
+ .
+   * New Mirror: Kyiv, Ukraine
+Checksums-Sha1:
+ a7e6b312796a09c1f9cd9a661ced09f049583ef8 1144 mx-repo-list_22.5.01.dsc
+ 7b99f5e3a08a4f8c0c9d12ca96408f4b482d891a 5792 mx-repo-list_22.5.01.tar.xz
+ 574982d82f81326040e9ecf544371816fad47e48 5110 mx-repo-list_22.5.01_amd64.buildinfo
+Checksums-Sha256:
+ 615ad0733dcb8e36532ac18257a49a9f25ef84e78183a6092c10b626c2f69888 1144 mx-repo-list_22.5.01.dsc
+ 5b8181a6ba606f829ede7b848ae03f735a319ccbac730f29d7ec2ca7ce898f8d 5792 mx-repo-list_22.5.01.tar.xz
+ 0d81a114e3a9c91ab11d187908a39400fc4386476d4c6aedb935df25962a59c6 5110 mx-repo-list_22.5.01_amd64.buildinfo
+Files:
+ cf84c32a900c3eb03f5a254b2f6b3671 1144 admin optional mx-repo-list_22.5.01.dsc
+ 60e07670e484d62afe4676466beb4def 5792 admin optional mx-repo-list_22.5.01.tar.xz
+ 625fb2e975845d8c1fc5bb763c701862 5110 admin optional mx-repo-list_22.5.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKGaFMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLx/CACb90wEl/FX0TedgjT9kFGeywEODsD8
+NS8HlbIgyl/L8BfOnRLnMGXZTc4McRjpEyzAk1xqSlHFPpo64usXRfSHZCi69sbx
+vxxEYnZqInA+k17w+Agufxsmj1p7g/2Zk6+Ypn0FV2G18cs5kyOO0Y+RFOunRPr+
+74rNqd5WkGo/tFcNxj/izmy+umNCb6s46jxFvVr+kYe8vdeskGtwu/eMr0OyRcqb
++GdvM3PtuDelWBcomWAuB8gzy8PXAhioCx1ISZEAVZ10gK9ttl2cUL4/XOh5FsIs
+MbL9kwheqtEEGGfgC3CAdrYVcqLkKRCqq+iikAH+N15Kp5fgCucGJBJN
+=K9yp
+-----END PGP SIGNATURE-----
