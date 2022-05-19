@@ -140,7 +140,8 @@ Taiwan, Taoyuan City - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
 Uganda, Kampala - http://mirror.renu.ac.ug/mxlinux
-Ukraine, Kiev - http://debian.org.ua/mxlinux.org/packages
+Ukraine, Kyiv - https://fastmirror.pp.ua/mxlinux
+Ukraine, Kyiv - http://debian.org.ua/mxlinux.org/packages
 Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, Coventry - https://anorien.csc.warwick.ac.uk/mxlinux/packages
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
