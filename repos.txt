@@ -161,7 +161,6 @@ United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
 United States, Salt Lake City UT - http://mxrepo.com
-United States, Seattle WA - https://mirrors.metapeer.com/mxlinux
 Uruguay, Montevideo - https://espejito.fder.edu.uy/mxlinux/packages
 Uruguay, Treint y Tres - https://repo.cure.edu.uy/mxlinux/packages
 Uzbekistan, Tashkent - http://mirror.dc.uz/mxlinux
