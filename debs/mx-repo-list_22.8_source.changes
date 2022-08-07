@@ -14,27 +14,28 @@ Changes:
  mx-repo-list (22.8) mx; urgency=medium
  .
    * Remove metapeer repo
+   * Update NYCU url
 Checksums-Sha1:
- 3023546032e3e158dfe5d6ee11ad014b1c0f115c 1132 mx-repo-list_22.8.dsc
- 8ca50180d1d26ca204f7923e564be7ad093bfa43 5792 mx-repo-list_22.8.tar.xz
- 34f1ab3199985bd481e7793bc253cef4ad6beb30 5086 mx-repo-list_22.8_amd64.buildinfo
+ ddcebae3f67267c35a890525dd9461d94272c064 1132 mx-repo-list_22.8.dsc
+ 45ef494db81b8eed0a939ca6b5e45a1478a7bc34 5804 mx-repo-list_22.8.tar.xz
+ 96ae3c67cb01625f121bb4a680a344e51f4ae444 5086 mx-repo-list_22.8_amd64.buildinfo
 Checksums-Sha256:
- 19d47e74c20deb47e8e1ff20f608d814c51abe9e65ec2baaa85ba7294bb24b82 1132 mx-repo-list_22.8.dsc
- 139647aca0673ba912c77479a07c56146c9a65d1f522c64a62fea1cd741f3a2e 5792 mx-repo-list_22.8.tar.xz
- bca82be47622fb0339f12035eb5c0a54b1e9316c2d3bc3e0251a2e68e5a8f8c6 5086 mx-repo-list_22.8_amd64.buildinfo
+ 2562e7a5ecf0f1d868c0be1263b145fe90fb2f9e8e3a05ec7d985dcb30ecd838 1132 mx-repo-list_22.8.dsc
+ fd3191d673296bfe532ce3439773908f540e3f740b95ad00e0ca579ba6652750 5804 mx-repo-list_22.8.tar.xz
+ 7afc4bfc254c57ff07d573641fe12e0dc01b9a5073e39bab681ed464ec635063 5086 mx-repo-list_22.8_amd64.buildinfo
 Files:
- b052f5082208e4ff1b092d95318ff7b0 1132 admin optional mx-repo-list_22.8.dsc
- 2430240b137aa5c0b9565c890287eecb 5792 admin optional mx-repo-list_22.8.tar.xz
- 9c50e465eb4f8640ff03168c5bf7de53 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
+ 91989d8efabb3b0ca5c0d580cca5b2e5 1132 admin optional mx-repo-list_22.8.dsc
+ 6fdf5bb43058ddeb93cd1e0cdbefbb79 5804 admin optional mx-repo-list_22.8.tar.xz
+ d118ae561863d674ea521c66d42fbbcb 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvx5UTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPhfCAC4EX/qnJokijNJHFvQDLC2/ZGUefP8
-+cXBOUz8cfOc45S40FCm0sTU8iJVSSiDzFWQvjOu4QmDjET+HNgUat54y6T7CWsf
-qr3wBC3w0qCBFRq1TFwU/it4WLb9AuAOJhxQp7jGzGXYY2Vbg+KPkg68eMgehUrV
-GThNN6bZEYs5vATUDykyjvaUCY4OlNGU3xhLrTVV4n1pHe3yYfkeov48QSQKt+v8
-bZn2Coih8VnG2zf4HbVaFXsSYRqU5N73YZIaWbLtxKHYf2E4ltM5r7uI4DDv7rf1
-GWbsFeyXGcuM255+U9/Mo7Xgyrg4HmtH5FHteDqonWfiDyGo2AXvwYbd
-=yxx1
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvyKMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPjVB/4qETvSAv6aHNl3IJUAqonYOezukdfq
+WG/l+2PwYmf6AXr4rZ4RpZLF5FucsR0M/DebRahZ2D46Ca2U/3OoShlWgxa8ncrR
+5BNBtNMsPTvYJzZAZI2KQESzHpRJf9Db9TYzSHX8c8l3QwotkpIWZM9dVz8fKY0F
+1LYKRvE+05jq5Dt049HzB7mD7ytC5yygq6UeGuhQMGEwPC8r3Ia0Ce8vxo1kWLaT
+haa1uY7u6aoBDeGQ/af+tD8/Hgh/PtxKHboHyo3KHXKQmUvXpk1mMbT7j8TlJXUN
+czvx0qUxJwfdkZ5khNPcgSEnOP2+SjB2RFl+u3Wm43G1npeVIrHbpWVd
+=Rfgk
 -----END PGP SIGNATURE-----

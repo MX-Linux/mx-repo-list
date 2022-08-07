@@ -1,6 +1,7 @@
 mx-repo-list (22.8) mx; urgency=medium
 
-  * Remove metapeer repo 
+  * Remove metapeer repo
+  * Update NYCU url 
 
  -- Adrian <adrian@mxlinux.org>  Sun, 07 Aug 2022 10:08:30 -0400
 

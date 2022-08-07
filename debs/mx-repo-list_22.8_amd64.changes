@@ -17,30 +17,31 @@ Changes:
  mx-repo-list (22.8) mx; urgency=medium
  .
    * Remove metapeer repo
+   * Update NYCU url
 Checksums-Sha1:
- 3023546032e3e158dfe5d6ee11ad014b1c0f115c 1132 mx-repo-list_22.8.dsc
- 8ca50180d1d26ca204f7923e564be7ad093bfa43 5792 mx-repo-list_22.8.tar.xz
- 8edf5aa85ee7344794a948ac8e5c9e8dfca7fa80 6632 mx-repo-list_22.8_all.deb
- 34f1ab3199985bd481e7793bc253cef4ad6beb30 5086 mx-repo-list_22.8_amd64.buildinfo
+ ddcebae3f67267c35a890525dd9461d94272c064 1132 mx-repo-list_22.8.dsc
+ 45ef494db81b8eed0a939ca6b5e45a1478a7bc34 5804 mx-repo-list_22.8.tar.xz
+ 0e6900703a83488ad40f28aa50dc38466a54408a 6652 mx-repo-list_22.8_all.deb
+ 96ae3c67cb01625f121bb4a680a344e51f4ae444 5086 mx-repo-list_22.8_amd64.buildinfo
 Checksums-Sha256:
- 19d47e74c20deb47e8e1ff20f608d814c51abe9e65ec2baaa85ba7294bb24b82 1132 mx-repo-list_22.8.dsc
- 139647aca0673ba912c77479a07c56146c9a65d1f522c64a62fea1cd741f3a2e 5792 mx-repo-list_22.8.tar.xz
- c7865001b7601d033a5b18fe1398a8a85a51f5c88d078cd0316060130290c1d7 6632 mx-repo-list_22.8_all.deb
- bca82be47622fb0339f12035eb5c0a54b1e9316c2d3bc3e0251a2e68e5a8f8c6 5086 mx-repo-list_22.8_amd64.buildinfo
+ 2562e7a5ecf0f1d868c0be1263b145fe90fb2f9e8e3a05ec7d985dcb30ecd838 1132 mx-repo-list_22.8.dsc
+ fd3191d673296bfe532ce3439773908f540e3f740b95ad00e0ca579ba6652750 5804 mx-repo-list_22.8.tar.xz
+ f0e175a828182842bb73dc501de18a1c295e1fc94d5a64e45c028307156ad99b 6652 mx-repo-list_22.8_all.deb
+ 7afc4bfc254c57ff07d573641fe12e0dc01b9a5073e39bab681ed464ec635063 5086 mx-repo-list_22.8_amd64.buildinfo
 Files:
- b052f5082208e4ff1b092d95318ff7b0 1132 admin optional mx-repo-list_22.8.dsc
- 2430240b137aa5c0b9565c890287eecb 5792 admin optional mx-repo-list_22.8.tar.xz
- 628efec436b3641ff16a91f3c72b265c 6632 admin optional mx-repo-list_22.8_all.deb
- 9c50e465eb4f8640ff03168c5bf7de53 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
+ 91989d8efabb3b0ca5c0d580cca5b2e5 1132 admin optional mx-repo-list_22.8.dsc
+ 6fdf5bb43058ddeb93cd1e0cdbefbb79 5804 admin optional mx-repo-list_22.8.tar.xz
+ 80cda00c6908c72d74d7254353e47ee6 6652 admin optional mx-repo-list_22.8_all.deb
+ d118ae561863d674ea521c66d42fbbcb 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvx5UTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNmsB/93FRhtN5e01ETElEjFHBEDZlMT8PdL
-vXQcJLapnAchwgX3byMWZXz0cXmoHjR9RbTpWrkkKlK5kT4tAvMi3mEIOuWgoFNA
-tLtLYGTi65oX0fWI6PjRp5dfUUEndXMZ2FjDTWw6fPqK07ry8vHYawmSY8q6EB6k
-6IJahs15tNRnuAZqJdzbpwm/p0/Tqzay2VJY9xIBFna1QtGtABZWjvW4wan5tFGp
-O30rDubtqODGzLD8r65BUl3FcZTODOCtUx1XSsAKdTffAJymTAU5GcdFv3lzz2ma
-Z1fQpNBBfPM/TxQfGHfGkcGLZhtQYNzDbypphB071HliJhwVfCUebv6C
-=tL+2
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvyKMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEj6B/9m+WeSiyvreMdeWnEbXvuasUkq41EI
+bjRpXBgdaAwUagYw9KOTlm0IaxHTMJqO7hPDj9OZ2HNw7eaI1m+64y996WzAQqxy
+GNwL5mszFgLKDqFLpv54I/+Qc29OyHF2x86wcK/AcNtdTe7IyNjy2nzTpFJ7x+zu
+K0a8Upfro7xQlhzAj2MHk2wv+0Ckja6FgVicjx1JVPwyWh2p7ahInbqG3Cbd83tW
+Oj8vY0wmbmqK0ZbtwwJxvg6mYLhrkjsApiFy+NMzu/WNFzb5GwY7KdkggOTkBAcd
+Te/TiMPKgcu1WW4KCT/muJiib8RP5DpA97V6w5WDLKxrlYfabizBuNXo
+=O4H0
 -----END PGP SIGNATURE-----
