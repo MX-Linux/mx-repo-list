@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 07 Aug 2022 10:08:30 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 22.8
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (22.8) mx; urgency=medium
+ .
+   * Remove metapeer repo
+Checksums-Sha1:
+ 3023546032e3e158dfe5d6ee11ad014b1c0f115c 1132 mx-repo-list_22.8.dsc
+ 8ca50180d1d26ca204f7923e564be7ad093bfa43 5792 mx-repo-list_22.8.tar.xz
+ 8edf5aa85ee7344794a948ac8e5c9e8dfca7fa80 6632 mx-repo-list_22.8_all.deb
+ 34f1ab3199985bd481e7793bc253cef4ad6beb30 5086 mx-repo-list_22.8_amd64.buildinfo
+Checksums-Sha256:
+ 19d47e74c20deb47e8e1ff20f608d814c51abe9e65ec2baaa85ba7294bb24b82 1132 mx-repo-list_22.8.dsc
+ 139647aca0673ba912c77479a07c56146c9a65d1f522c64a62fea1cd741f3a2e 5792 mx-repo-list_22.8.tar.xz
+ c7865001b7601d033a5b18fe1398a8a85a51f5c88d078cd0316060130290c1d7 6632 mx-repo-list_22.8_all.deb
+ bca82be47622fb0339f12035eb5c0a54b1e9316c2d3bc3e0251a2e68e5a8f8c6 5086 mx-repo-list_22.8_amd64.buildinfo
+Files:
+ b052f5082208e4ff1b092d95318ff7b0 1132 admin optional mx-repo-list_22.8.dsc
+ 2430240b137aa5c0b9565c890287eecb 5792 admin optional mx-repo-list_22.8.tar.xz
+ 628efec436b3641ff16a91f3c72b265c 6632 admin optional mx-repo-list_22.8_all.deb
+ 9c50e465eb4f8640ff03168c5bf7de53 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvx5UTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNmsB/93FRhtN5e01ETElEjFHBEDZlMT8PdL
+vXQcJLapnAchwgX3byMWZXz0cXmoHjR9RbTpWrkkKlK5kT4tAvMi3mEIOuWgoFNA
+tLtLYGTi65oX0fWI6PjRp5dfUUEndXMZ2FjDTWw6fPqK07ry8vHYawmSY8q6EB6k
+6IJahs15tNRnuAZqJdzbpwm/p0/Tqzay2VJY9xIBFna1QtGtABZWjvW4wan5tFGp
+O30rDubtqODGzLD8r65BUl3FcZTODOCtUx1XSsAKdTffAJymTAU5GcdFv3lzz2ma
+Z1fQpNBBfPM/TxQfGHfGkcGLZhtQYNzDbypphB071HliJhwVfCUebv6C
+=tL+2
+-----END PGP SIGNATURE-----

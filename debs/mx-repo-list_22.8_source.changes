@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 07 Aug 2022 10:08:30 -0400
+Source: mx-repo-list
+Architecture: source
+Version: 22.8
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (22.8) mx; urgency=medium
+ .
+   * Remove metapeer repo
+Checksums-Sha1:
+ 3023546032e3e158dfe5d6ee11ad014b1c0f115c 1132 mx-repo-list_22.8.dsc
+ 8ca50180d1d26ca204f7923e564be7ad093bfa43 5792 mx-repo-list_22.8.tar.xz
+ 34f1ab3199985bd481e7793bc253cef4ad6beb30 5086 mx-repo-list_22.8_amd64.buildinfo
+Checksums-Sha256:
+ 19d47e74c20deb47e8e1ff20f608d814c51abe9e65ec2baaa85ba7294bb24b82 1132 mx-repo-list_22.8.dsc
+ 139647aca0673ba912c77479a07c56146c9a65d1f522c64a62fea1cd741f3a2e 5792 mx-repo-list_22.8.tar.xz
+ bca82be47622fb0339f12035eb5c0a54b1e9316c2d3bc3e0251a2e68e5a8f8c6 5086 mx-repo-list_22.8_amd64.buildinfo
+Files:
+ b052f5082208e4ff1b092d95318ff7b0 1132 admin optional mx-repo-list_22.8.dsc
+ 2430240b137aa5c0b9565c890287eecb 5792 admin optional mx-repo-list_22.8.tar.xz
+ 9c50e465eb4f8640ff03168c5bf7de53 5086 admin optional mx-repo-list_22.8_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmLvx5UTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPhfCAC4EX/qnJokijNJHFvQDLC2/ZGUefP8
++cXBOUz8cfOc45S40FCm0sTU8iJVSSiDzFWQvjOu4QmDjET+HNgUat54y6T7CWsf
+qr3wBC3w0qCBFRq1TFwU/it4WLb9AuAOJhxQp7jGzGXYY2Vbg+KPkg68eMgehUrV
+GThNN6bZEYs5vATUDykyjvaUCY4OlNGU3xhLrTVV4n1pHe3yYfkeov48QSQKt+v8
+bZn2Coih8VnG2zf4HbVaFXsSYRqU5N73YZIaWbLtxKHYf2E4ltM5r7uI4DDv7rf1
+GWbsFeyXGcuM255+U9/Mo7Xgyrg4HmtH5FHteDqonWfiDyGo2AXvwYbd
+=yxx1
+-----END PGP SIGNATURE-----
