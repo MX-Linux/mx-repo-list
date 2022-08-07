@@ -135,7 +135,7 @@ Sweden, South - https://mirror.operationtulip.com/mxlinux/mx-packages
 Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
-Taiwan, Hsinchu - http://mxlinux.cs.nctu.edu.tw/mx-workspace
+Taiwan, Hsinchu - https://mxlinux.cs.nycu.edu.tw/mx-workspace
 Taiwan, Taoyuan City - http://ftp.yzu.edu.tw/Linux/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
