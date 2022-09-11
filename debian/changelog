@@ -1,3 +1,9 @@
+mx-repo-list (22.9) mx; urgency=medium
+
+  * Update repo list
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 11 Sep 2022 18:00:41 -0400
+
 mx-repo-list (22.8) mx; urgency=medium
 
   * Remove metapeer repo
