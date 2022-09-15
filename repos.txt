@@ -121,6 +121,7 @@ Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 New Caledonia, Nouméa - http://mirror.lagoon.nc/mxlinux/
+New Zealand, Tauranga - http://mx.debian.nz
 Philippines, Cebu City - http://mirror.rise.ph/mxlinux-pkg
 Poland, Gdańsk - http://ftp.task.gda.pl/site/mx-packages
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
