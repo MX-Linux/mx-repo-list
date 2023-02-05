@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Feb 2023 10:28:22 -0500
+Source: mx-repo-list
+Architecture: source
+Version: 23.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (23.2) mx; urgency=medium
+ .
+   * New Mirror: Singapore
+Checksums-Sha1:
+ 302bb4bcb24970bde89a583857126f2a9d1399fe 1132 mx-repo-list_23.2.dsc
+ 558653f5cd32bac5cddd72a035e7f8335e458641 5840 mx-repo-list_23.2.tar.xz
+ c1279a8901001aecf7a26fe1e89b76a01e58a5b7 5086 mx-repo-list_23.2_amd64.buildinfo
+Checksums-Sha256:
+ 91c72a4c571966c61eec99970a8960d4ada5d71ec0ab3cf71f43a70798918567 1132 mx-repo-list_23.2.dsc
+ dcca0c764439c32edca5209198e80fb6353b359c0fce70a6339b9f53d9695fa0 5840 mx-repo-list_23.2.tar.xz
+ 7bdb411bb1007320753ef75ef60e78063e1958546a0fb6b058af3ef7980fc86f 5086 mx-repo-list_23.2_amd64.buildinfo
+Files:
+ 29327539819a4af3a28b4e70ba4c3e00 1132 admin optional mx-repo-list_23.2.dsc
+ 7b117b511906f080b2d58f6333b1331c 5840 admin optional mx-repo-list_23.2.tar.xz
+ 8b7a5f3e7805c6fdac29acea31965bb7 5086 admin optional mx-repo-list_23.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmPfy30THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO7HCACWGilFxJdHVL44n4nkepiwe9r0HvW4
+S/VkZcs9A2ZdS68zpqhBaDJh8+W3kJivC2da8hDX2V5N+GGaZ+/H6ChAo5vcfeZS
+SArZ87L0IKHgoD8JlHtIhKv91CLNd2T9KXsWxfM0ggWTOU4Z1T+oarlntMeGSolC
+2NcnCH3Zi+THq3D1HmjH5++D27fvKX/+eJS7dzL91NcUrOtSQxPAby3Z3owRb1FE
+WtGZYNC3wY9DIF0EJzoqHfEdiOYHooX+KUY4i0qxrrEkaNpUMfiG1qzpmhBDiN14
+y0cCV1kJAt72IskHpZNkN8gMkHdW6a9hTDz4gPH13/kPWNcyS7FDB4ym
+=6tWc
+-----END PGP SIGNATURE-----

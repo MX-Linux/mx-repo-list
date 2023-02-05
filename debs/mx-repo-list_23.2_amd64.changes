@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Feb 2023 10:28:22 -0500
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 23.2
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (23.2) mx; urgency=medium
+ .
+   * New Mirror: Singapore
+Checksums-Sha1:
+ 302bb4bcb24970bde89a583857126f2a9d1399fe 1132 mx-repo-list_23.2.dsc
+ 558653f5cd32bac5cddd72a035e7f8335e458641 5840 mx-repo-list_23.2.tar.xz
+ 026f8b2ceea6632b9ac8ad42f8a8c854d50c22c1 6700 mx-repo-list_23.2_all.deb
+ c1279a8901001aecf7a26fe1e89b76a01e58a5b7 5086 mx-repo-list_23.2_amd64.buildinfo
+Checksums-Sha256:
+ 91c72a4c571966c61eec99970a8960d4ada5d71ec0ab3cf71f43a70798918567 1132 mx-repo-list_23.2.dsc
+ dcca0c764439c32edca5209198e80fb6353b359c0fce70a6339b9f53d9695fa0 5840 mx-repo-list_23.2.tar.xz
+ 0331ae0eb4e4ad633cd268af785182042b954909f2623d2d7f8f416fdb56b867 6700 mx-repo-list_23.2_all.deb
+ 7bdb411bb1007320753ef75ef60e78063e1958546a0fb6b058af3ef7980fc86f 5086 mx-repo-list_23.2_amd64.buildinfo
+Files:
+ 29327539819a4af3a28b4e70ba4c3e00 1132 admin optional mx-repo-list_23.2.dsc
+ 7b117b511906f080b2d58f6333b1331c 5840 admin optional mx-repo-list_23.2.tar.xz
+ d7f0460dab9c797c56666fc3413ae973 6700 admin optional mx-repo-list_23.2_all.deb
+ 8b7a5f3e7805c6fdac29acea31965bb7 5086 admin optional mx-repo-list_23.2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmPfy30THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBKoCADAw4/SOE2VnyTfxE2BFztt12mcnBZN
+OXopigpofFZB4hNkbcXH+7TGNbBIqugHym4U13MaQ8uCxi0+9S6ALArjFkZ4zQTE
+RRG6FQWgHIEM7+/9/PNTTWSJeg2FOdX11P3pgVCE1DovYjcMUMm5KsSQFQ2H82Ja
+9wbOFmE3o5LjsKrRXUjAVGYVAIeRvbQSlc/KAp0L7NiyDtEZ5pVglfkNg25NBHlQ
+/bNKdY7uRvOevOz8CT0WPegpCoffAfq5a2jp6m1Uw7QLsstZ/RalOG9Rd+C15AKR
+EUYKti++q8OLn4q8X/8IfZsX206w5esDl+ZOT7hWz2EwmmXI5mnOxzhe
+=MjPS
+-----END PGP SIGNATURE-----
