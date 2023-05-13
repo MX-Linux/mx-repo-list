@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 13 May 2023 09:27:44 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 23.5
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (23.5) mx; urgency=medium
+ .
+   * Remove mirror: UA
+Checksums-Sha1:
+ f6be0941ec66f2f7b1471a9f5f50b53477ee2a7e 1132 mx-repo-list_23.5.dsc
+ 3363739b522a81d2ddaa0c36f882b90da2ccb8a4 5844 mx-repo-list_23.5.tar.xz
+ 81b456035707e1a10c08d8ca2de1ca1edd8a4852 6712 mx-repo-list_23.5_all.deb
+ dc6175b8e19984dc56d64034abba0aa51592f4df 5086 mx-repo-list_23.5_amd64.buildinfo
+Checksums-Sha256:
+ d91e755074d34a23f39904bfc361221468ae4325ccdefc8c6e6e6c0bf019d122 1132 mx-repo-list_23.5.dsc
+ 705119b3e5c1498ff8fafcc91e8f4d69e41f388ec594d547ae5e39f36decf7b1 5844 mx-repo-list_23.5.tar.xz
+ 4577577772f909e62cbf2e434dc49012b70e7ca6ea79671d144c282cda8f1ec7 6712 mx-repo-list_23.5_all.deb
+ 60894a870792fbde9b5af6a390672fad6586dc37c051a76f4b0222e50300a230 5086 mx-repo-list_23.5_amd64.buildinfo
+Files:
+ 4f31cb4ad2b227828859e58536c3f469 1132 admin optional mx-repo-list_23.5.dsc
+ a24626c3c585fc26ad55e784ac5c66f9 5844 admin optional mx-repo-list_23.5.tar.xz
+ 4899770ff5628ae877aed98a2a6605c2 6712 admin optional mx-repo-list_23.5_all.deb
+ 87aa60398fa1dfc3475ded2dbdc71df5 5086 admin optional mx-repo-list_23.5_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRfkIETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPK7B/sEQkdfq3AbeQBQI0/K4EvW3uHPhBvu
+4ol2LD59su0q2DTm1GO4eUn49wiR4kFpTRkRuxWm0g00lbPPG9RBIWd4N9Yet+u8
+QugqKnfUFvIA1xXPqt3e7XW8tbAlXknJsUgOq/kOrNeNYxJAuM2FrMwEnqr9eHah
+RPbmbkbNMO7FKoU2E0Adsj6Pz/8wr1ULfThk/IjPHsY/bS6kitJfHQG8cShhGa8H
+00AA2DuNfDOa0CKbCOhe8CqADcTaiUt7UVRotb8MJfrb3dyJp4YKE5d3VfQTlJEV
+blh1p9CppKKdLjBlrkFvZyqRu195fTZpF1bKLhtdrAPqWAuJ4Ts1/jbo
+=7M5g
+-----END PGP SIGNATURE-----
