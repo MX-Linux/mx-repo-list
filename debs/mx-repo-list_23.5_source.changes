@@ -15,26 +15,26 @@ Changes:
  .
    * Remove mirror: UA
 Checksums-Sha1:
- f6be0941ec66f2f7b1471a9f5f50b53477ee2a7e 1132 mx-repo-list_23.5.dsc
- 3363739b522a81d2ddaa0c36f882b90da2ccb8a4 5844 mx-repo-list_23.5.tar.xz
- dc6175b8e19984dc56d64034abba0aa51592f4df 5086 mx-repo-list_23.5_amd64.buildinfo
+ 088e7fa8479f0b1e6c9f1ed9378306e34b763f8c 1132 mx-repo-list_23.5.dsc
+ 890fbedaddf0b0dff400e2806c4a96e7ff98ad2b 5860 mx-repo-list_23.5.tar.xz
+ c2791f112f89b897ebda2be3f19c2db649b4a495 5200 mx-repo-list_23.5_amd64.buildinfo
 Checksums-Sha256:
- d91e755074d34a23f39904bfc361221468ae4325ccdefc8c6e6e6c0bf019d122 1132 mx-repo-list_23.5.dsc
- 705119b3e5c1498ff8fafcc91e8f4d69e41f388ec594d547ae5e39f36decf7b1 5844 mx-repo-list_23.5.tar.xz
- 60894a870792fbde9b5af6a390672fad6586dc37c051a76f4b0222e50300a230 5086 mx-repo-list_23.5_amd64.buildinfo
+ 269394fc11da0c8cc577670b5df8400b9cf5bf9a7d0e4df8b4c5f7010dae110d 1132 mx-repo-list_23.5.dsc
+ 2f59ba78021fc59fee80e6665714d1f2ff2dbe83a6ea92b1ce25031823bdf873 5860 mx-repo-list_23.5.tar.xz
+ aeec47286be37a67f451eb9b18c6fd1af298ce90f7c5d05ebb7845158d47b60e 5200 mx-repo-list_23.5_amd64.buildinfo
 Files:
- 4f31cb4ad2b227828859e58536c3f469 1132 admin optional mx-repo-list_23.5.dsc
- a24626c3c585fc26ad55e784ac5c66f9 5844 admin optional mx-repo-list_23.5.tar.xz
- 87aa60398fa1dfc3475ded2dbdc71df5 5086 admin optional mx-repo-list_23.5_amd64.buildinfo
+ 7875418075d9715e62455affd1be859a 1132 admin optional mx-repo-list_23.5.dsc
+ c29b9bf7196cf7e3966562d8f3166040 5860 admin optional mx-repo-list_23.5.tar.xz
+ ac8f40171847f24269f2e008688516e8 5200 admin optional mx-repo-list_23.5_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRfkIETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFtoCADIYt2sGFZiKZad020NyD0F0jVly7tg
-jV6256EKsXLTtLooJXBov3tbRzctDfT/tqRwjkJD2odPcOjTod5b2CjBf5DtcR8R
-D2LuWsPPqBfhpQ5Zo8+yXIb7hwgi5t0VdJAcFaB63c6FPJXMpZxLHd+NUwTs1I8A
-kXb6u103Ta6VZSZJuKGJkMrLGe1Glbu/Y64zLeELGsOTzMfR+wTSSB04QuJHQRqT
-dYRKPgLcNkrYqb6hV7Y7gH3dtEkG04aDx/mudfM08FWZ9I1JREQZM7COLubJ1s47
-ZTHa5K3a+mxfrKL04TDxkSxLV3VYB8OZZll4T5A5+9p6GZ9xMwXA/ZcP
-=Sgzn
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRuTd0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBCeB/0U4sO+5SCugOI8seqa1V+PP2h7f3Gc
+mMlGcaGju0sSzabE8w8pBQjnZTmpr/ERBY4/oFEch1PZpm6qOhkcdh9HNaDvjegG
+T0zNULos/YwhnvvaZ2s2+ReAPe51PdAoMYqIm9btxwBJ48/77e2LDDKCqmPdH/0o
+Ambn60J+L7C2P46CtKe1GnUt7WxHXwd99Fvr+NWjWekDzMoTVz/bkx0SPs3AQqQb
+vR8GgxaUWCRJPLQwDNscXNUrqR1R0iSOGf01/eIMdlmuXSzaawYQS6u0hmFTuxWx
++BKB+XLjZBuCgnd+1cWWDlvzYJtkq92f3Uam+GwjTGy4uygD5hBRt2dx
+=KvBG
 -----END PGP SIGNATURE-----
