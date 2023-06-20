@@ -16,31 +16,31 @@ Description:
 Changes:
  mx-repo-list (23.6) mx; urgency=medium
  .
-   * New Mirror: Greece, Thesaloniki
+   * New Mirror: Greece, Thessaloniki
 Checksums-Sha1:
- 4e1fa71fde2a0417ed4560273f93db7bdeda5edf 1132 mx-repo-list_23.6.dsc
- 1bfac39738e063b37662d132d7600c5eb01df807 5944 mx-repo-list_23.6.tar.xz
- 437608b026ad8bf2241d33503a7b93e6b6f93f75 6792 mx-repo-list_23.6_all.deb
- 396d100ea7df331ef75b9451fbe65a778a36c5d1 5086 mx-repo-list_23.6_amd64.buildinfo
+ b92748c36c5a33c78f48f0a221bd4aacd4e3dbf6 1132 mx-repo-list_23.6.dsc
+ 58bbe3206ebfede1a06903551eb3902f5ad4ec3c 5940 mx-repo-list_23.6.tar.xz
+ b2ae100f970152ede3af2a68228581d816f3dda0 6792 mx-repo-list_23.6_all.deb
+ 3b33814e93442b7603651e4171661adc78611ba7 5086 mx-repo-list_23.6_amd64.buildinfo
 Checksums-Sha256:
- 6c0675c7d72592025b3b63e5f335b25568a2309c4b19117ef15538d10966c871 1132 mx-repo-list_23.6.dsc
- 3c5622ade993d0f122939557b9faa90cbd680b14d1579e19508a5698d002db20 5944 mx-repo-list_23.6.tar.xz
- e87b5616b097f9d241ea479b5585489d9364c2dd992d047e6f170d531213d3e8 6792 mx-repo-list_23.6_all.deb
- 153ed8abee4cfc0ae2db71ccac7b180544607452303e487b92684d107b9f869b 5086 mx-repo-list_23.6_amd64.buildinfo
+ 7cdfe7489c90f3e5a6ba758e8d6856319addbe9cf86c8c85bcddec5aa43409d6 1132 mx-repo-list_23.6.dsc
+ 7c673c6a676fa8b20e5a8ca4e4eaf7d2ea1856752e64a0bcd5e7a969233d716f 5940 mx-repo-list_23.6.tar.xz
+ 0f0f41c7dde0d86afc2cead2eecd61fd8197ede1c5ae0ea02bd702c67e46de4c 6792 mx-repo-list_23.6_all.deb
+ a67a6d52622a3a357555dc0517838316739be7e1b1fa5114c76ac4356d6fc3c1 5086 mx-repo-list_23.6_amd64.buildinfo
 Files:
- 6ec911e419588607fe24d44310080d61 1132 admin optional mx-repo-list_23.6.dsc
- 9bf8cab3d7b33c89e5710f05af959233 5944 admin optional mx-repo-list_23.6.tar.xz
- 3224b27aa19639c44ae6627c7c13fdf8 6792 admin optional mx-repo-list_23.6_all.deb
- 82f04831010d5a8320546f64e8100342 5086 admin optional mx-repo-list_23.6_amd64.buildinfo
+ 0cbe6a243d7d39556f14a123a2f5220b 1132 admin optional mx-repo-list_23.6.dsc
+ b018f65851845434404d11782e92b7cc 5940 admin optional mx-repo-list_23.6.tar.xz
+ 8c8f1847ec374a991c7f3032566c8123 6792 admin optional mx-repo-list_23.6_all.deb
+ 7236ed1cb9cd4324e7b54ae9f2c1c05c 5086 admin optional mx-repo-list_23.6_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRJdkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNQnB/9MWgYVWRfg+gYGEVMpD5t9UFNdiCiA
-IkRZaHDz8/TFbhuxoygC5Lj6P4jQDCKaXLK8kDFMRu71GfSPw7LV8qp15NN1bV/S
-8+TwAgx/OjkN5qRJpUnNjPEW58jrWsBOJWnmAnp+W9nCXJNt9p36ldyW2FGA7pcq
-zYADXasMfQy6rZX85ZmOKZDU5PcUNCzfO+hLlzc2a9IYB5WRmwprJJY28EdhiT0s
-O02qgGQwkxr5r7yXjxz8RXTjcsUZr+CuaxKmD4T8wUaIMj1mil8Az3NcfaMHCAWz
-Q9FpC11BPpWKaBCVVW2nNKOZIDuZkdqT2cMSgJpuPcRnkNKO3B6k50NA
-=9ww2
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRJiQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNvdB/0Rv7uYn2RN8hp1iilWuqFDKkiYw3g6
+1FQVuw0vnatcbnDBS24dxggTeMjutHuSMWL9Hv73uYY0H5A44SAjDpv5czV/Hg0p
+JGwXXLf7vmTWbiiE2DCnormrb1D792pQGskZnZawmsHQHEg36VulgwMvMfDDd6I8
+6b8W2PbAweURIiyzw4qj4ivzVeN4aijKH/BgxVgIFugMZlWi//X3ekjqGG8MvyWu
+q3NcVkDCJSpanCxG5PY55wW3M3wJz7KnU3bBlJCGiNjNlcLJwj5qZLmMIP3U4Cnp
+XmscdYRmlNlM+fJveyq7b3bubJe1Pv5EzrmXc7s2eIhqlA8C2OhkYPFL
+=eT0N
 -----END PGP SIGNATURE-----

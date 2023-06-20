@@ -13,28 +13,28 @@ Changed-By: Adrian <adrian@mxlinux.org>
 Changes:
  mx-repo-list (23.6) mx; urgency=medium
  .
-   * New Mirror: Greece, Thesaloniki
+   * New Mirror: Greece, Thessaloniki
 Checksums-Sha1:
- 4e1fa71fde2a0417ed4560273f93db7bdeda5edf 1132 mx-repo-list_23.6.dsc
- 1bfac39738e063b37662d132d7600c5eb01df807 5944 mx-repo-list_23.6.tar.xz
- 396d100ea7df331ef75b9451fbe65a778a36c5d1 5086 mx-repo-list_23.6_amd64.buildinfo
+ b92748c36c5a33c78f48f0a221bd4aacd4e3dbf6 1132 mx-repo-list_23.6.dsc
+ 58bbe3206ebfede1a06903551eb3902f5ad4ec3c 5940 mx-repo-list_23.6.tar.xz
+ 3b33814e93442b7603651e4171661adc78611ba7 5086 mx-repo-list_23.6_amd64.buildinfo
 Checksums-Sha256:
- 6c0675c7d72592025b3b63e5f335b25568a2309c4b19117ef15538d10966c871 1132 mx-repo-list_23.6.dsc
- 3c5622ade993d0f122939557b9faa90cbd680b14d1579e19508a5698d002db20 5944 mx-repo-list_23.6.tar.xz
- 153ed8abee4cfc0ae2db71ccac7b180544607452303e487b92684d107b9f869b 5086 mx-repo-list_23.6_amd64.buildinfo
+ 7cdfe7489c90f3e5a6ba758e8d6856319addbe9cf86c8c85bcddec5aa43409d6 1132 mx-repo-list_23.6.dsc
+ 7c673c6a676fa8b20e5a8ca4e4eaf7d2ea1856752e64a0bcd5e7a969233d716f 5940 mx-repo-list_23.6.tar.xz
+ a67a6d52622a3a357555dc0517838316739be7e1b1fa5114c76ac4356d6fc3c1 5086 mx-repo-list_23.6_amd64.buildinfo
 Files:
- 6ec911e419588607fe24d44310080d61 1132 admin optional mx-repo-list_23.6.dsc
- 9bf8cab3d7b33c89e5710f05af959233 5944 admin optional mx-repo-list_23.6.tar.xz
- 82f04831010d5a8320546f64e8100342 5086 admin optional mx-repo-list_23.6_amd64.buildinfo
+ 0cbe6a243d7d39556f14a123a2f5220b 1132 admin optional mx-repo-list_23.6.dsc
+ b018f65851845434404d11782e92b7cc 5940 admin optional mx-repo-list_23.6.tar.xz
+ 7236ed1cb9cd4324e7b54ae9f2c1c05c 5086 admin optional mx-repo-list_23.6_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRJdkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPXqB/9or4Xefh7c4si2Y00TBDRBE3AmY/la
-JM78sdi90fy/LV3cRBMzekSIyKqJSXS5Xg1GthTDFws0knqvUZ8so6KWRjtG9a+s
-oXDb01U9Skiid+gYZ50sVh1aRNo6MxZ+lFqHb8+s5MOdUnRIwpZZ976VK7UZi4i7
-tXLxlnGTtewCmemle6bLt1hb82fhIdQytclRfghviaLsOwkc2rClMYKINzMpiOaC
-fz+cDQGdNIjCPb7gHn9XF0ilG/34MZv7ezuEeAwiXDEYOC4jaFZ0XozmCX7JB7H8
-7+ZOVS3Dr/v8EVQM1Pszpg33rfpbRl6qjnm+0TdbRO71vH6yC0YK9AUz
-=2r7R
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRJiQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHgxB/48N6yg7QOGJrZ7hFx3fVa8/ijr+jb0
+Ko3wMN92qVj9opHOIqWVsHdFiuB6YPNZbMXwT0fBJBZXCOgzILT2yrqW7f4cI34w
+3FwPvc+KwsR2TjNnO9LQcEPZKeQ8UNISk4MzYVzxsZukusEoh6YomC79HdWQ9+2D
+t/cBvvmcgP6JbQ6kn3fJ5RhJxcDCAMGZRSej+x07BJzytcfObepjQMN60nndxMf1
++vWI6UR3W3aK9Ipk8FRnoV6+H4FHZlWSfn5EEwHPu/uYUDOeZCD9LZMAvbUoLL9D
+xXUs6ijsAIJ51nogs8JpF1KofDZKlH6hbGzKErf7Tn9PtqaUzyFyIUGd
+=hbFT
 -----END PGP SIGNATURE-----
