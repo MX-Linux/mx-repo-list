@@ -15,26 +15,26 @@ Changes:
  .
    * Re-add mirror: UA
 Checksums-Sha1:
- 5a2012cb2d0ee7aa01bb2f08ef781d3d5afe8942 1144 mx-repo-list_23.5.01.dsc
- 28eae5aec9542d46ea038b7426968ef5580f73ae 5880 mx-repo-list_23.5.01.tar.xz
- 1e31f9289e940214cafe957128615421cc028c7e 5224 mx-repo-list_23.5.01_amd64.buildinfo
+ 4ff15591af9c64de62a20ca3b7269a4ce528800a 1144 mx-repo-list_23.5.01.dsc
+ b33f451946c82e1d611bcf6dbabfb7c615c11536 5920 mx-repo-list_23.5.01.tar.xz
+ 56e651b440ce255e39baf94fbd9e3c579789d557 5110 mx-repo-list_23.5.01_amd64.buildinfo
 Checksums-Sha256:
- ed8880447a409b840f4472503b0e0e77d145734a71faf9e77451504668839583 1144 mx-repo-list_23.5.01.dsc
- db2cbc18b175efe7c8ec093b8f284bc02f4bd308910032d5492dfb74ebee7f79 5880 mx-repo-list_23.5.01.tar.xz
- c435f985a3ca011e5d04506cd4327b9b541c888a62bb95de108237e39cdabb5e 5224 mx-repo-list_23.5.01_amd64.buildinfo
+ ddfc96fd29fc38fdfdffcad6e2d70491323a9d9a6e6053e69d0e11f8333ee1cd 1144 mx-repo-list_23.5.01.dsc
+ 2054200cfd8ffca7abeac1edefb25dfca6b0f77da5cba57343cc1c5af4b011bf 5920 mx-repo-list_23.5.01.tar.xz
+ 86a34a0f193c1f8e6dad98aee048fbfe89666ede5da6a3753d36f7d872ffdcc9 5110 mx-repo-list_23.5.01_amd64.buildinfo
 Files:
- 9eba32a5500c786007a80e79e2cdd7e3 1144 admin optional mx-repo-list_23.5.01.dsc
- c915145e61effd0cc34edcf6874322c6 5880 admin optional mx-repo-list_23.5.01.tar.xz
- bc17e236fa8f4921d5ba381399369198 5224 admin optional mx-repo-list_23.5.01_amd64.buildinfo
+ e273a160fa00a99f333a194a114279e9 1144 admin optional mx-repo-list_23.5.01.dsc
+ 024a05c35b8f35b38ebbcf6c8e6ca273 5920 admin optional mx-repo-list_23.5.01.tar.xz
+ 7d328085303a395454e4a039512651a8 5110 admin optional mx-repo-list_23.5.01_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRuTh8THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAb1B/48I+3+TAggRFet/PfOBtJ2g0bJDfC+
-akshGk0Td9Pg7j16Zh8OVx6l/vYCMbFuBekYVWQcg6rz2K5yGX1r+8P9rFJbhenb
-sMO1sSYMtD0Oi0CuuoPQMwLbP8hgMXgc/xnmCecoJPYE5iuNDV8MBf5VCcxk5tLG
-Y2FmhIhJVd48j/mxQNQfyFNvoJt2I7QEY4ea1p0rmC08OehD5OzzagE0AxVAziNE
-7U9Y98r8dlBYoQlVVY6x0WXnG+AEeSsJw9vGiiZokyAO4ZVlaAY3CAWTOE9bs68n
-vJhGKOO5C4R3eYlVFVoez6UGg8cGhShbFTvi1Um8tNi4LFU6IIaFnWDs
-=dv9H
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRJSwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIyAB/9Frj8eYByfDzgo841trL1k5Z3qEbZT
+Jt86iTXCTIqAfE9PtXq2+in/YxfBwmyiESUDmr3Y4ZXvGYNwwqXJZa2gpz/sWH5t
+rjxKhY/Z6apfpMp4CE2fT8R/QaYRmknski3C6u+FPTmz7VU8wGlMpbhoGuwa0DQP
+R9t84oEuW4XrV4of8TM20ja+avLp+LVSU3tFfwFaCmeLefaeO2YCCLtHfyCq5W1s
+nZ1thPuUVLSMlQ8/T2DwJy03NeMIaogUkIYikWtiNVpj20mq8eYTUNsiFH97VAzd
+VPhii+D8qmXtIhU9dfmgMIrcbeoxmAyohSAOgJGx1NStZptgGZEs/JCJ
+=K79o
 -----END PGP SIGNATURE-----
