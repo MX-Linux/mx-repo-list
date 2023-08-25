@@ -1,3 +1,9 @@
+mx-repo-list (23.8) mx; urgency=medium
+
+  * New Mirror: Tokyo, Japan
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 25 Aug 2023 15:33:55 -0400
+
 mx-repo-list (23.6) mx; urgency=medium
 
   * New Mirror: Greece, Thessaloniki

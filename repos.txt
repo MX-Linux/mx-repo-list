@@ -108,6 +108,7 @@ Ireland, Dublin - http://mirror.strencom.net/mxlinux/packages
 Italy, Milan - http://it.mxrepo.com
 Italy, Trieste - http://mirror.units.it/mxlinux
 Japan, Saitama - http://ftp.riken.jp/Linux/mxlinux
+Japan, Tokyo - https://repo.jing.rocks/mxlinux
 Japan, Tsukuba - http://ftp.tsukuba.wide.ad.jp/Linux/mxlinux
 Japan, Yonezawa - https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages
 Kazakhstan, Almaty - http://mirror.neolabs.kz/mx/packages
