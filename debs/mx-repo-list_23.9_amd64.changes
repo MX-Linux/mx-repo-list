@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 12 Sep 2023 10:52:27 -0400
+Source: mx-repo-list
+Binary: mx-repo-list
+Architecture: source all
+Version: 23.9
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-repo-list - Part of MX program for managing repos.
+Changes:
+ mx-repo-list (23.9) mx; urgency=medium
+ .
+   * Update mirror from South Korea
+Checksums-Sha1:
+ 6a79e48f669641c443088d260c28ff6e12b92c06 1132 mx-repo-list_23.9.dsc
+ a891faae90edd31b9653af99c0ab71381d85b7ad 6000 mx-repo-list_23.9.tar.xz
+ 24960be2ab98b7e5be23f1bc42f5a510265287af 6860 mx-repo-list_23.9_all.deb
+ ce5721a8d133110be45bd0a9346b8cc30974146a 5199 mx-repo-list_23.9_amd64.buildinfo
+Checksums-Sha256:
+ bec877137e1e6712733cd54073e7d3d533c34f09f37fa4d537270b3bd3a5e7a1 1132 mx-repo-list_23.9.dsc
+ 602a1920fc6a98f441183b5753af4b3232bf9a9c412dad0f0ed6b7b8cc926cf1 6000 mx-repo-list_23.9.tar.xz
+ a00dcb6cb9ea19a8826807b210e9fc59a882b635656bb0306a57bbc7202f6651 6860 mx-repo-list_23.9_all.deb
+ 6a5871f2f72682b72fae64fc560833a9128abccb5399d1563c0717c9055d8982 5199 mx-repo-list_23.9_amd64.buildinfo
+Files:
+ 373c3f3f1f2e7620a0bd31e11d84d9de 1132 admin optional mx-repo-list_23.9.dsc
+ 3e9debb9b4614ace6a41c1e25a634258 6000 admin optional mx-repo-list_23.9.tar.xz
+ b3bf6acfee5755175e749d745b5e16c7 6860 admin optional mx-repo-list_23.9_all.deb
+ d77a4572d88d6f412f62783209344dc6 5199 admin optional mx-repo-list_23.9_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUAe6wTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGRdCACC3idx2RKoSDPPeEkWXkpvBCNor4Pd
+ukrISTLH6+V6eQEL+B09SgEGeJBjxgJx+vf+lKg3f+5LhO8wEbEbfftTLzO/Kvh9
+rAKwY3rJiVyjMyy6KT1K7E7PS1M9y73msFU4nKNStzfMvzK6gh+qgOw7/qecHdwR
+a92iXtT7L/PH5vufyjZLKj+GFs2NBEtdRlxRTtUjIcDhglMavDOjOPGitFRLd7aB
+cfKrM7zSsmwe8gohU2X8fcgy+Kl9H0e41+k/GbhKlUvnLRWDnKn8xQ7r2VAxRk0B
+g8gLur3d58dpllqkcyic3r8/Lr/ZKTqnxSFw5MOxqUpS7GG5YQg/YqH4
+=O7Ld
+-----END PGP SIGNATURE-----
