@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 16 Sep 2023 12:58:27 -0400
+Source: mx-repo-list
+Architecture: source
+Version: 23.9.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ mx-repo-list (23.9.01) mx; urgency=medium
+ .
+   * Remove mirrors that are not working
+Checksums-Sha1:
+ 413706603cd799e2eca616cf32e5f02766a98cb6 1144 mx-repo-list_23.9.01.dsc
+ 5158b3f312502535407f0dd828c6db064b94ba53 4956 mx-repo-list_23.9.01.tar.xz
+ 9c81af114297119a04b68db447e5c72131442a63 5223 mx-repo-list_23.9.01_amd64.buildinfo
+Checksums-Sha256:
+ 5960468044bb52bcd8181ca0a1a058d7c3e66cd3600a3e2888d143a1fd4d9d3e 1144 mx-repo-list_23.9.01.dsc
+ 59d365a8e8bbcf6e65ea64626e49c9489a1c4d54b9e747bd2bc82948166ddc88 4956 mx-repo-list_23.9.01.tar.xz
+ fffa5105fa3971c6fbfddf2451c6107ccadb0b9bd367c0a1777750fe486d2017 5223 mx-repo-list_23.9.01_amd64.buildinfo
+Files:
+ 05e7cb2467f6053706a14c635acefbc8 1144 admin optional mx-repo-list_23.9.01.dsc
+ 303591c09ed63709e0a343ff50189ca5 4956 admin optional mx-repo-list_23.9.01.tar.xz
+ f7762e27f23d7a55a6bac05a8a516883 5223 admin optional mx-repo-list_23.9.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUF3wgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBtpB/0R1joaFpNpjjfgZ9N/Xz3BNal1olnw
+o5HjScEM0PZykFD22ZiZqeafRVlPIuUwZ1xtF1qLgVh0q9W/U9TW/LrBiznx3Hq0
+icTqaw1PG7pBHUzhDnRFNjwW71Za7eWhGRQfrOZS3e8RmSxoqmI10oedaolXHpdF
+XUszUtL70MHax3FQPTdYZu13gQRbi9SghKYWy21j4OW/it2oRe1Uoa5mjdBsmzr9
+9GHCHM/iJdCxKK7v7QBSBp2ClqeLg/GkfreH0nwjmjyNtHLgHQ/cuDqQSgkokmEq
+WZq9zgcHY4Oe40jNyGcVQeVL5QQL91bg8DGvB2s5ff6cuXBWuzG0tVMA
+=tt0O
+-----END PGP SIGNATURE-----
