@@ -47,8 +47,6 @@ Greece, Crete - http://ftp.cc.uoc.gr/mirrors/linux/mx
 Greece, Thessaloniki - https://fosszone.csd.auth.gr/mxlinux-archive
 Hong Kong, KoDDoS - https://mirror-hk.koddos.net/mxlinux
 Hungary, Miskolc - https://quantum-mirror.hu/mirrors/pub/mx-linux/packages
-India - http://mirrors.piconets.webwerks.in/mx-mirror/packages
-India, Mumbai - http://mx-pkg.mirror.net.in/MX-Linux
 Indonesia, Surabaya - http://kartolo.sby.datautama.net.id/mx-packages
 Italy, Milan - http://it.mxrepo.com
 Italy, Trieste - http://mirror.units.it/mxlinux
@@ -105,5 +103,5 @@ United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
 United States, Princeton NJ - http://mirror.math.princeton.edu/pub/mxlinux
 United States, Rochester NY - http://mirrors.rit.edu/mxlinux/mx-packages
-United States, Salt Lake City UT - http://mxrepo.com
+United States, Salt Lake City UT - https://mxrepo.com
 Uzbekistan, Tashkent - http://mirror.dc.uz/mxlinux
