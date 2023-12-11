@@ -1,3 +1,9 @@
+mx-repo-list (23.12) mx; urgency=medium
+
+  * Remove inactive mirrors
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 11 Dec 2023 13:09:25 -0500
+
 mx-repo-list (23.11) mx; urgency=medium
 
   * remove non-working India mirrors

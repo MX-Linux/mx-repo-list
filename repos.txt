@@ -4,7 +4,6 @@ Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
 Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
-Belgium, Brussels - http://mirror.tiguinet.net/mx/packages
 Brazil, Manaus - http://mirror.ufam.edu.br/mx
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
@@ -59,7 +58,6 @@ Kazakhstan, Almaty - https://mirror.ps.kz/mx/packages
 Kenya, Nairobi - https://mxlinux.mirror.liquidtelecom.com/packages
 Latvia, Riga - http://ftp.linux.edu.lv/mxlinux
 Lithuania, Vilnius - http://mirror.vpsnet.com/workspace
-Luxembourg, Roost - http://mxl.mirror.root.lu
 Netherlands, Alblasserdam - http://nl.mxrepo.com
 Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
@@ -72,7 +70,6 @@ Portugal, Lisbon - https://ftp.rnl.tecnico.ulisboa.pt/pub/mxlinux-packages
 Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
 Russia, Moscow - https://mirror.yandex.ru/mirrors/MX-Linux/MX-Packages
-Singapore - https://mirror.freedif.org/MXLinux/repo
 Singapore - https://mirror.jingk.ai/mxlinux/mx-packages
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
 Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
