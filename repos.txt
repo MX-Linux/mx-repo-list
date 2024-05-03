@@ -23,7 +23,6 @@ China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
 Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
-Czech Republic, Prague - https://ftp.sh.cvut.cz/mxlinux/packages
 Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace

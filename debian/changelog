@@ -1,3 +1,9 @@
+mx-repo-list (24.5.01) mx; urgency=medium
+
+  * Remove inactive mirror: cvut.cz
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 03 May 2024 18:00:22 -0400
+
 mx-repo-list (24.5) mx; urgency=medium
 
   * New repo: Ontario, Canada
