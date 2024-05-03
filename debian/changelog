@@ -1,3 +1,9 @@
+mx-repo-list (24.5) mx; urgency=medium
+
+  * New repo: Ontario, Canada
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 03 May 2024 17:51:19 -0400
+
 mx-repo-list (24.4) mx; urgency=medium
 
   * New repo: Singapore
