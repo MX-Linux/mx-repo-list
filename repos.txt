@@ -80,7 +80,7 @@ South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
-Sweden, Umeå - http://ftp.acc.umu.se/mirror/mxlinux.org/packages
+Sweden, Umeå - http://mirror.accum.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
 Taiwan, Hsinchu - https://mxlinux.cs.nycu.edu.tw/mx-workspace
