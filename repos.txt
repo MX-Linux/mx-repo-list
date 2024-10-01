@@ -1,4 +1,3 @@
-Argentina, Cordoba - http://mxlinux.unc.edu.ar/mxlinux
 Australia, Sydney - http://mirror.datamossa.io/mxlinux
 Austria, Graz - http://debian.mur.at/mx-linux
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
