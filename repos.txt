@@ -7,9 +7,7 @@ Brazil, Manaus - http://mirror.ufam.edu.br/mx
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
 Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace 
 Bulgaria, Sofia - http://mirror.telepoint.bg/mxlinux-repo
-Bulgaria, Sofia - https://mirrors.netix.net/mx/MX-Packages
 Bulgaria, Sofia - https://mxlinux.ipacct.com/MX-Packages
-Bulgaria, Sophia - https://mirrors.neterra.net/mx/MX-Packages
 Canada, Halifax - http://mirror.its.dal.ca/mxlinux
 Canada, Manitoba - https://muug.ca/mirror/mx-packages
 Canada, Ontario - http://mxlinux.mirror.rafal.ca/MX-Packages
@@ -62,9 +60,7 @@ Netherlands, Amsterdam - https://mirror.koddos.net/mxlinux
 Netherlands, Ede - https://ftp.nluug.nl/os/Linux/distr/mxlinux
 New Zealand, Tauranga - http://mx.debian.nz
 Philippines, Cebu City - http://mirror.rise.ph/mxlinux-pkg
-Poland, Gdańsk - http://ftp.task.gda.pl/site/mx-packages
 Poland, Warsaw - http://ftp.icm.edu.pl/pub/Linux/dist/antix-workspace
-Portugal, Aveiro - http://glua.ua.pt/pub/mx-packages
 Portugal, Lisbon - https://ftp.rnl.tecnico.ulisboa.pt/pub/mxlinux-packages
 Portugal, Lisbon - https://mirror.fccn.pt/repos/pub/mxlinux/MX-Packages
 Russia, Belovo - http://mirror.truenetwork.ru/mxlinux
