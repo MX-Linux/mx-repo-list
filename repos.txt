@@ -89,7 +89,7 @@ United Kingdom, Manchester - https://mirrors.ukfast.co.uk/sites/MX_antiX_package
 United States, Atlanta GA - http://www.gtlib.gatech.edu/pub/MX-Linux/workspace
 United States, Berkeley, CA - https://mirrors.ocf.berkeley.edu/mx-packages
 United States, Herndon, VA - http://mirror.cogentco.com/pub/linux/mxlinux
-United States, Lenexa KA - https://mirror.us.oneandone.net/linux/distributions/mx/packages
+United States, Lenexa KA - https://us.mirror.ionos.com/linux/distributions/mx/packages/
 United States, Los Angeles CA - http://la.mxrepo.com
 United States, Maryland MD - http://mirror.umd.edu/mxlinux
 United States, OR, IL, NY - http://ftp.osuosl.org/pub/mxlinux
