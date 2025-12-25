@@ -34,6 +34,7 @@ Germany, Aachen - http://ftp.halifax.rwth-aachen.de/mxlinux/packages
 Germany, Bochum - https://linux.rub.de/mxlinux/packages
 Germany, Chemnitz - http://ftp.tu-chemnitz.de/pub/linux/MX/Repo
 Germany, Cologne - http://mirror.plusserver.com/mxlinux/mxlinux
+Germany, Erlangen - https://ftp.fau.de/mxlinux-packages
 Germany, Falkenstein - https://mirror.diyarciftci.xyz/mxlinux-packages
 Germany, Frankfurt - https://mirror.23m.com/mx-packages
 Germany, Göttingen - https://ftp.gwdg.de/pub/linux/mx/packages
