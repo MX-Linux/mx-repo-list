@@ -84,6 +84,7 @@ South Korea, Gwangju - https://mirror.siwoo.org/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
 Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
+Spain, Madrid - https://mirror.raiolanetworks.com/mxlinux/packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
 Sweden, Umeå - http://mirror.accum.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
