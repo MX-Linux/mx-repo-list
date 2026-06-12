@@ -7,8 +7,8 @@ Austria, Vienna - http://mirror.easyname.at/mxlinux-packages
 Austria, Vienna - https://at.mirrors.cicku.me/mxlinux/packages
 Belarus, Minsk - https://mirror.datacenter.by/pub/mirrors/mxlinux.org/packages
 Brazil, Parana - https://mxlinux.c3sl.ufpr.br/mx-workspace
-Brazil, Sao Paolo - https://sa.mirrors.cicku.me/mxlinux/packages
-Brazil, Sao Paolo - http://sft.if.usp.br/mx-workspace
+Brazil, Sao Paulo - https://sa.mirrors.cicku.me/mxlinux/packages
+Brazil, Sao Paulo - http://sft.if.usp.br/mx-workspace
 Bulgaria, Sofia - http://mirror.telepoint.bg/mxlinux-repo
 Bulgaria, Sofia - https://mxlinux.ipacct.com/MX-Packages
 Canada, Halifax - http://mirror.its.dal.ca/mxlinux
