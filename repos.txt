@@ -91,6 +91,7 @@ Taiwai, Taipei - https://tw.mirrors.cicku.me/mxlinux/packages
 Taiwan, Hsinchu - https://mxlinux.cs.nycu.edu.tw/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
+Turkey, Denizli - https://mirror.verinomi.com/mxlinux/packages
 Ukraine, Kyiv - https://distrohub.kyiv.ua/mxlinux
 Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, London - http://mxlinux.mirrors.uk2.net/packages
