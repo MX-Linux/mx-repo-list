@@ -19,7 +19,6 @@ Chile, Santiago - http://mirror.netlinux.cl/mxlinux
 Chile, Valparaíso - http://mirror.insacom.cl/mxlinux
 China, Alibaba Cloud - https://mirrors.aliyun.com/mxlinux
 China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
-China, Chongqing - https://mirrors.cqu.edu.cn/MX_Linux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
 Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
@@ -70,13 +69,11 @@ Singapore - https://mirror.freedif.org/MXLinux/repo
 Singapore - https://mirror.jingk.ai/mxlinux/mx-packages
 Singapore - https://sg.mirrors.cicku.me/mxlinux/packages
 Slovakia, Bratislava - http://tux.rainside.sk/mxlinux
-Slovenia, Ljubljana - https://ftp.arnes.si/mirrors/mxlinux/packages
 South Africa, Cape Town - https://ftp.saix.net/linux/distributions/mxlinux
 South Korea, Daejeon - http://ftp.kaist.ac.kr/mxlinux
 South Korea, Gwangju - https://mirror.siwoo.org/mxlinux
 South Korea, Seoul - http://mirror.navercorp.com/mxlinux
 Spain, Andalusia - http://ftp.cica.es/mirrors/Linux/MX-Packages
-Spain, Catalonia - https://ftp.caliu.cat/pub/distribucions/mxlinux/MX-Packages
 Spain, Madrid - https://mirror.raiolanetworks.com/mxlinux/packages
 Spain, Zaragoza - http://matojo.unizar.es/mxlinux
 Sweden, Umeå - http://mirror.accum.se/mirror/mxlinux.org/packages
@@ -87,7 +84,6 @@ Taiwan, Hsinchu - https://mxlinux.cs.nycu.edu.tw/mx-workspace
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
 Turkey, Denizli - https://mirror.verinomi.com/mxlinux/packages
-Ukraine, Kyiv - https://distrohub.kyiv.ua/mxlinux
 Ukraine, Vinnytsia - https://mx-packages.ip-connect.vn.ua
 United Kingdom, London - https://gb.mirrors.cicku.me/mxlinux/packages
 United Kingdom, Manchester - https://mirrors.ukfast.co.uk/sites/MX_antiX_packages
