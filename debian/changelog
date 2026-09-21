@@ -1,3 +1,9 @@
+mx-repo-list (26.09) mx; urgency=medium
+
+  * Remove stale mirrors and couple more
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 21 Sep 2026 18:02:28 -0400
+
 mx-repo-list (26.06) mx; urgency=medium
 
   * Remove mirrors: ufam.br, HU
