@@ -27,6 +27,7 @@ Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
 Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
+Dominican Republic, Moca - https://mirror.hiesoft.net/mxlinux
 Ecuador, Cuenca - http://mirror.cedia.org.ec/mx-workspace
 France, Amiens - http://ftp.u-picardie.fr/pub/mxlinux
 France, Paris - http://ftp.lip6.fr/pub/linux/distributions/mxlinux/packages
