@@ -79,8 +79,8 @@ Spain, Zaragoza - http://matojo.unizar.es/mxlinux
 Sweden, Umeå - http://mirror.accum.se/mirror/mxlinux.org/packages
 Switzerland, Zurich - http://mirror.easyname.ch/mxlinux-packages
 Switzerland, Zurich - https://mx-linux.ethz.ch/mx-packages
-Taiwai, Taipei - https://tw.mirrors.cicku.me/mxlinux/packages
 Taiwan, Hsinchu - https://mxlinux.cs.nycu.edu.tw/mx-workspace
+Taiwan, Taipei - https://tw.mirrors.cicku.me/mxlinux/packages
 Thailand, Khon Kaen - https://mirror.kku.ac.th/mx-packages
 Turkey, Ankara - http://ftp.linux.org.tr/mx/repo
 Turkey, Denizli - https://mirror.verinomi.com/mxlinux/packages
