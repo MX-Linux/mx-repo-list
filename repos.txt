@@ -1,3 +1,4 @@
+
 Australia, Sydney - http://mirror.datamossa.io/mxlinux
 Australia, Sydney - https://au.mirrors.cicku.me/mxlinux/packages
 Australia, Sydney - https://mirror.aarnet.edu.au/pub/mxlinux/packages
@@ -22,6 +23,7 @@ China, Beijing - https://mirrors.tuna.tsinghua.edu.cn/mxlinux
 China, Shanghai - https://mirrors.sjtug.sjtu.edu.cn/mx-packages
 Czech Republic, Brno - http://ftp.linux.cz/pub/linux/mxlinux/packages
 Czech Republic, Prague - http://mirror.karneval.cz/pub/linux/mxlinux-packages
+Czech Republic, Prague - https://ftp.sh.cvut.cz/mxlinux-packages
 Denmark, Aalborg - http://mirrors.dotsrc.org/mx-packages
 Denmark, Copenhagen - https://mirror.one.com/mx-packages
 Dominican Republic, Moca - https://mirror.hiesoft.net/mxlinux
