@@ -1,5 +1,4 @@
 
-Australia, Sydney - http://mirror.datamossa.io/mxlinux
 Australia, Sydney - https://au.mirrors.cicku.me/mxlinux/packages
 Australia, Sydney - https://mirror.aarnet.edu.au/pub/mxlinux/packages
 Austria, Graz - http://mirror.digitalnova.at/mxlinux/packages
