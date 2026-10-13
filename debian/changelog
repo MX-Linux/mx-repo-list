@@ -1,3 +1,11 @@
+mx-repo-list (26.10) mx; urgency=medium
+
+  * Add mirror: Czech Republic (Prague)
+  * Remove the Sydney, Australia mirror, which no longer works
+  * Fix the spelling of Taiwan in the mirror list
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 13 Oct 2026 18:21:32 -0400
+
 mx-repo-list (26.09) mx; urgency=medium
 
   * Remove stale mirrors and couple more
